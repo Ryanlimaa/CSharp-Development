@@ -1,0 +1,14 @@
+C:\Users\ADM\Desktop\C#\Aulas\Aula03\ex02\bin\Debug\net8.0\ex02.exe
+C:\Users\ADM\Desktop\C#\Aulas\Aula03\ex02\bin\Debug\net8.0\ex02.deps.json
+C:\Users\ADM\Desktop\C#\Aulas\Aula03\ex02\bin\Debug\net8.0\ex02.runtimeconfig.json
+C:\Users\ADM\Desktop\C#\Aulas\Aula03\ex02\bin\Debug\net8.0\ex02.dll
+C:\Users\ADM\Desktop\C#\Aulas\Aula03\ex02\bin\Debug\net8.0\ex02.pdb
+C:\Users\ADM\Desktop\C#\Aulas\Aula03\ex02\obj\Debug\net8.0\ex02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\C#\Aulas\Aula03\ex02\obj\Debug\net8.0\ex02.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\C#\Aulas\Aula03\ex02\obj\Debug\net8.0\ex02.AssemblyInfo.cs
+C:\Users\ADM\Desktop\C#\Aulas\Aula03\ex02\obj\Debug\net8.0\ex02.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\C#\Aulas\Aula03\ex02\obj\Debug\net8.0\ex02.dll
+C:\Users\ADM\Desktop\C#\Aulas\Aula03\ex02\obj\Debug\net8.0\refint\ex02.dll
+C:\Users\ADM\Desktop\C#\Aulas\Aula03\ex02\obj\Debug\net8.0\ex02.pdb
+C:\Users\ADM\Desktop\C#\Aulas\Aula03\ex02\obj\Debug\net8.0\ex02.genruntimeconfig.cache
+C:\Users\ADM\Desktop\C#\Aulas\Aula03\ex02\obj\Debug\net8.0\ref\ex02.dll
