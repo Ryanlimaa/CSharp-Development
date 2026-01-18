@@ -1,0 +1,14 @@
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex5_classes\bin\Debug\net8.0\ex5_classes.exe
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex5_classes\bin\Debug\net8.0\ex5_classes.deps.json
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex5_classes\bin\Debug\net8.0\ex5_classes.runtimeconfig.json
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex5_classes\bin\Debug\net8.0\ex5_classes.dll
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex5_classes\bin\Debug\net8.0\ex5_classes.pdb
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex5_classes\obj\Debug\net8.0\ex5_classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex5_classes\obj\Debug\net8.0\ex5_classes.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex5_classes\obj\Debug\net8.0\ex5_classes.AssemblyInfo.cs
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex5_classes\obj\Debug\net8.0\ex5_classes.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex5_classes\obj\Debug\net8.0\ex5_classes.dll
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex5_classes\obj\Debug\net8.0\refint\ex5_classes.dll
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex5_classes\obj\Debug\net8.0\ex5_classes.pdb
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex5_classes\obj\Debug\net8.0\ex5_classes.genruntimeconfig.cache
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex5_classes\obj\Debug\net8.0\ref\ex5_classes.dll

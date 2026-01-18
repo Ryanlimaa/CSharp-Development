@@ -1,0 +1,14 @@
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Função\bin\Debug\net8.0\Função.exe
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Função\bin\Debug\net8.0\Função.deps.json
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Função\bin\Debug\net8.0\Função.runtimeconfig.json
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Função\bin\Debug\net8.0\Função.dll
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Função\bin\Debug\net8.0\Função.pdb
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Função\obj\Debug\net8.0\Função.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Função\obj\Debug\net8.0\Função.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Função\obj\Debug\net8.0\Função.AssemblyInfo.cs
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Função\obj\Debug\net8.0\Função.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Função\obj\Debug\net8.0\Função.dll
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Função\obj\Debug\net8.0\refint\Função.dll
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Função\obj\Debug\net8.0\Função.pdb
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Função\obj\Debug\net8.0\Função.genruntimeconfig.cache
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Função\obj\Debug\net8.0\ref\Função.dll

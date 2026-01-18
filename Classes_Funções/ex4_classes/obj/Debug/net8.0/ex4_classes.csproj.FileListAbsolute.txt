@@ -1,0 +1,14 @@
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex4_classes\bin\Debug\net8.0\ex4_classes.exe
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex4_classes\bin\Debug\net8.0\ex4_classes.deps.json
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex4_classes\bin\Debug\net8.0\ex4_classes.runtimeconfig.json
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex4_classes\bin\Debug\net8.0\ex4_classes.dll
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex4_classes\bin\Debug\net8.0\ex4_classes.pdb
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex4_classes\obj\Debug\net8.0\ex4_classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex4_classes\obj\Debug\net8.0\ex4_classes.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex4_classes\obj\Debug\net8.0\ex4_classes.AssemblyInfo.cs
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex4_classes\obj\Debug\net8.0\ex4_classes.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex4_classes\obj\Debug\net8.0\ex4_classes.dll
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex4_classes\obj\Debug\net8.0\refint\ex4_classes.dll
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex4_classes\obj\Debug\net8.0\ex4_classes.pdb
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex4_classes\obj\Debug\net8.0\ex4_classes.genruntimeconfig.cache
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex4_classes\obj\Debug\net8.0\ref\ex4_classes.dll
