@@ -1,0 +1,14 @@
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_while\bin\Debug\net8.0\ex_while.exe
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_while\bin\Debug\net8.0\ex_while.deps.json
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_while\bin\Debug\net8.0\ex_while.runtimeconfig.json
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_while\bin\Debug\net8.0\ex_while.dll
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_while\bin\Debug\net8.0\ex_while.pdb
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_while\obj\Debug\net8.0\ex_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_while\obj\Debug\net8.0\ex_while.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_while\obj\Debug\net8.0\ex_while.AssemblyInfo.cs
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_while\obj\Debug\net8.0\ex_while.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_while\obj\Debug\net8.0\ex_while.dll
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_while\obj\Debug\net8.0\refint\ex_while.dll
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_while\obj\Debug\net8.0\ex_while.pdb
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_while\obj\Debug\net8.0\ex_while.genruntimeconfig.cache
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_while\obj\Debug\net8.0\ref\ex_while.dll

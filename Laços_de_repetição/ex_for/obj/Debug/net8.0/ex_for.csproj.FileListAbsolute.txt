@@ -1,0 +1,14 @@
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_for\bin\Debug\net8.0\ex_for.exe
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_for\bin\Debug\net8.0\ex_for.deps.json
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_for\bin\Debug\net8.0\ex_for.runtimeconfig.json
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_for\bin\Debug\net8.0\ex_for.dll
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_for\bin\Debug\net8.0\ex_for.pdb
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_for\obj\Debug\net8.0\ex_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_for\obj\Debug\net8.0\ex_for.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_for\obj\Debug\net8.0\ex_for.AssemblyInfo.cs
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_for\obj\Debug\net8.0\ex_for.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_for\obj\Debug\net8.0\ex_for.dll
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_for\obj\Debug\net8.0\refint\ex_for.dll
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_for\obj\Debug\net8.0\ex_for.pdb
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_for\obj\Debug\net8.0\ex_for.genruntimeconfig.cache
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_for\obj\Debug\net8.0\ref\ex_for.dll

@@ -1,0 +1,14 @@
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Laço while\bin\Debug\net8.0\Laço_while.exe
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Laço while\bin\Debug\net8.0\Laço_while.deps.json
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Laço while\bin\Debug\net8.0\Laço_while.runtimeconfig.json
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Laço while\bin\Debug\net8.0\Laço_while.dll
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Laço while\bin\Debug\net8.0\Laço_while.pdb
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Laço while\obj\Debug\net8.0\Laço_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Laço while\obj\Debug\net8.0\Laço_while.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Laço while\obj\Debug\net8.0\Laço_while.AssemblyInfo.cs
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Laço while\obj\Debug\net8.0\Laço_while.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Laço while\obj\Debug\net8.0\Laço_while.dll
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Laço while\obj\Debug\net8.0\refint\Laço_while.dll
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Laço while\obj\Debug\net8.0\Laço_while.pdb
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Laço while\obj\Debug\net8.0\Laço_while.genruntimeconfig.cache
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Laço while\obj\Debug\net8.0\ref\Laço_while.dll
