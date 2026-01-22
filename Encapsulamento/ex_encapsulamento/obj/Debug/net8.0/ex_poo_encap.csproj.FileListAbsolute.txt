@@ -1,0 +1,14 @@
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_poo_encap\bin\Debug\net8.0\ex_poo_encap.exe
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_poo_encap\bin\Debug\net8.0\ex_poo_encap.deps.json
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_poo_encap\bin\Debug\net8.0\ex_poo_encap.runtimeconfig.json
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_poo_encap\bin\Debug\net8.0\ex_poo_encap.dll
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_poo_encap\bin\Debug\net8.0\ex_poo_encap.pdb
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_poo_encap\obj\Debug\net8.0\ex_poo_encap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_poo_encap\obj\Debug\net8.0\ex_poo_encap.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_poo_encap\obj\Debug\net8.0\ex_poo_encap.AssemblyInfo.cs
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_poo_encap\obj\Debug\net8.0\ex_poo_encap.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_poo_encap\obj\Debug\net8.0\ex_poo_encap.dll
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_poo_encap\obj\Debug\net8.0\refint\ex_poo_encap.dll
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_poo_encap\obj\Debug\net8.0\ex_poo_encap.pdb
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_poo_encap\obj\Debug\net8.0\ex_poo_encap.genruntimeconfig.cache
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex_poo_encap\obj\Debug\net8.0\ref\ex_poo_encap.dll

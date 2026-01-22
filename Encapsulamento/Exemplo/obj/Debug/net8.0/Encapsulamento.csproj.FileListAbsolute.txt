@@ -1,0 +1,14 @@
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Encapsulamento\bin\Debug\net8.0\Encapsulamento.exe
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Encapsulamento\bin\Debug\net8.0\Encapsulamento.deps.json
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Encapsulamento\bin\Debug\net8.0\Encapsulamento.runtimeconfig.json
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Encapsulamento\bin\Debug\net8.0\Encapsulamento.dll
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Encapsulamento\bin\Debug\net8.0\Encapsulamento.pdb
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Encapsulamento\obj\Debug\net8.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Encapsulamento\obj\Debug\net8.0\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Encapsulamento\obj\Debug\net8.0\Encapsulamento.AssemblyInfo.cs
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Encapsulamento\obj\Debug\net8.0\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Encapsulamento\obj\Debug\net8.0\Encapsulamento.dll
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Encapsulamento\obj\Debug\net8.0\refint\Encapsulamento.dll
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Encapsulamento\obj\Debug\net8.0\Encapsulamento.pdb
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Encapsulamento\obj\Debug\net8.0\Encapsulamento.genruntimeconfig.cache
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Encapsulamento\obj\Debug\net8.0\ref\Encapsulamento.dll
