@@ -1,0 +1,14 @@
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Params\bin\Debug\net8.0\Params.exe
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Params\bin\Debug\net8.0\Params.deps.json
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Params\bin\Debug\net8.0\Params.runtimeconfig.json
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Params\bin\Debug\net8.0\Params.dll
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Params\bin\Debug\net8.0\Params.pdb
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Params\obj\Debug\net8.0\Params.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Params\obj\Debug\net8.0\Params.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Params\obj\Debug\net8.0\Params.AssemblyInfo.cs
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Params\obj\Debug\net8.0\Params.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Params\obj\Debug\net8.0\Params.dll
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Params\obj\Debug\net8.0\refint\Params.dll
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Params\obj\Debug\net8.0\Params.pdb
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Params\obj\Debug\net8.0\Params.genruntimeconfig.cache
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Params\obj\Debug\net8.0\ref\Params.dll

@@ -1,0 +1,14 @@
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Vetores2\bin\Debug\net8.0\Vetores2.exe
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Vetores2\bin\Debug\net8.0\Vetores2.deps.json
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Vetores2\bin\Debug\net8.0\Vetores2.runtimeconfig.json
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Vetores2\bin\Debug\net8.0\Vetores2.dll
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Vetores2\bin\Debug\net8.0\Vetores2.pdb
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Vetores2\obj\Debug\net8.0\Vetores2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Vetores2\obj\Debug\net8.0\Vetores2.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Vetores2\obj\Debug\net8.0\Vetores2.AssemblyInfo.cs
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Vetores2\obj\Debug\net8.0\Vetores2.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Vetores2\obj\Debug\net8.0\Vetores2.dll
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Vetores2\obj\Debug\net8.0\refint\Vetores2.dll
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Vetores2\obj\Debug\net8.0\Vetores2.pdb
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Vetores2\obj\Debug\net8.0\Vetores2.genruntimeconfig.cache
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\Vetores2\obj\Debug\net8.0\ref\Vetores2.dll

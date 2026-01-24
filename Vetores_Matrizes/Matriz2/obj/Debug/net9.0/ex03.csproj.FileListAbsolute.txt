@@ -1,0 +1,14 @@
+C:\Users\ADM\Desktop\C#\Aulas\Aula12_Matrizes\ex03\bin\Debug\net9.0\ex03.exe
+C:\Users\ADM\Desktop\C#\Aulas\Aula12_Matrizes\ex03\bin\Debug\net9.0\ex03.deps.json
+C:\Users\ADM\Desktop\C#\Aulas\Aula12_Matrizes\ex03\bin\Debug\net9.0\ex03.runtimeconfig.json
+C:\Users\ADM\Desktop\C#\Aulas\Aula12_Matrizes\ex03\bin\Debug\net9.0\ex03.dll
+C:\Users\ADM\Desktop\C#\Aulas\Aula12_Matrizes\ex03\bin\Debug\net9.0\ex03.pdb
+C:\Users\ADM\Desktop\C#\Aulas\Aula12_Matrizes\ex03\obj\Debug\net9.0\ex03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\C#\Aulas\Aula12_Matrizes\ex03\obj\Debug\net9.0\ex03.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\C#\Aulas\Aula12_Matrizes\ex03\obj\Debug\net9.0\ex03.AssemblyInfo.cs
+C:\Users\ADM\Desktop\C#\Aulas\Aula12_Matrizes\ex03\obj\Debug\net9.0\ex03.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\C#\Aulas\Aula12_Matrizes\ex03\obj\Debug\net9.0\ex03.dll
+C:\Users\ADM\Desktop\C#\Aulas\Aula12_Matrizes\ex03\obj\Debug\net9.0\refint\ex03.dll
+C:\Users\ADM\Desktop\C#\Aulas\Aula12_Matrizes\ex03\obj\Debug\net9.0\ex03.pdb
+C:\Users\ADM\Desktop\C#\Aulas\Aula12_Matrizes\ex03\obj\Debug\net9.0\ex03.genruntimeconfig.cache
+C:\Users\ADM\Desktop\C#\Aulas\Aula12_Matrizes\ex03\obj\Debug\net9.0\ref\ex03.dll
