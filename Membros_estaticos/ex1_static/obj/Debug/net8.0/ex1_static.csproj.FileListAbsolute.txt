@@ -1,0 +1,14 @@
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex1_static\bin\Debug\net8.0\ex1_static.exe
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex1_static\bin\Debug\net8.0\ex1_static.deps.json
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex1_static\bin\Debug\net8.0\ex1_static.runtimeconfig.json
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex1_static\bin\Debug\net8.0\ex1_static.dll
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex1_static\bin\Debug\net8.0\ex1_static.pdb
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex1_static\obj\Debug\net8.0\ex1_static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex1_static\obj\Debug\net8.0\ex1_static.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex1_static\obj\Debug\net8.0\ex1_static.AssemblyInfo.cs
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex1_static\obj\Debug\net8.0\ex1_static.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex1_static\obj\Debug\net8.0\ex1_static.dll
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex1_static\obj\Debug\net8.0\refint\ex1_static.dll
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex1_static\obj\Debug\net8.0\ex1_static.pdb
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex1_static\obj\Debug\net8.0\ex1_static.genruntimeconfig.cache
+C:\Users\ADM\Desktop\C#\PrimeiroProjeto\ex1_static\obj\Debug\net8.0\ref\ex1_static.dll
