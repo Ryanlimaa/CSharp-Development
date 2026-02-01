@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADM\\Desktop\\C#\\ex02_H.P\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35E12201-DD3B-44B9-B8FB-F2C9EB4B52C7}|ex02_H.P\\ex02_H.P.csproj|c:\\users\\adm\\desktop\\c#\\ex02_h.p\\ex02_h.p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E12201-DD3B-44B9-B8FB-F2C9EB4B52C7}|ex02_H.P\\ex02_H.P.csproj|solutionrelative:ex02_h.p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E12201-DD3B-44B9-B8FB-F2C9EB4B52C7}|ex02_H.P\\ex02_H.P.csproj|c:\\users\\adm\\desktop\\c#\\ex02_h.p\\ex02_h.p\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E12201-DD3B-44B9-B8FB-F2C9EB4B52C7}|ex02_H.P\\ex02_H.P.csproj|solutionrelative:ex02_h.p\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E12201-DD3B-44B9-B8FB-F2C9EB4B52C7}|ex02_H.P\\ex02_H.P.csproj|c:\\users\\adm\\desktop\\c#\\ex02_h.p\\ex02_h.p\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E12201-DD3B-44B9-B8FB-F2C9EB4B52C7}|ex02_H.P\\ex02_H.P.csproj|solutionrelative:ex02_h.p\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E12201-DD3B-44B9-B8FB-F2C9EB4B52C7}|ex02_H.P\\ex02_H.P.csproj|c:\\users\\adm\\desktop\\c#\\ex02_h.p\\ex02_h.p\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E12201-DD3B-44B9-B8FB-F2C9EB4B52C7}|ex02_H.P\\ex02_H.P.csproj|solutionrelative:ex02_h.p\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsedProduct.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\Desktop\\C#\\ex02_H.P\\ex02_H.P\\Entities\\UsedProduct.cs",
+              "RelativeDocumentMoniker": "ex02_H.P\\Entities\\UsedProduct.cs",
+              "ToolTip": "C:\\Users\\ADM\\Desktop\\C#\\ex02_H.P\\ex02_H.P\\Entities\\UsedProduct.cs",
+              "RelativeToolTip": "ex02_H.P\\Entities\\UsedProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T20:33:56.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImportedProduct.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\Desktop\\C#\\ex02_H.P\\ex02_H.P\\Entities\\ImportedProduct.cs",
+              "RelativeDocumentMoniker": "ex02_H.P\\Entities\\ImportedProduct.cs",
+              "ToolTip": "C:\\Users\\ADM\\Desktop\\C#\\ex02_H.P\\ex02_H.P\\Entities\\ImportedProduct.cs",
+              "RelativeToolTip": "ex02_H.P\\Entities\\ImportedProduct.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T20:21:15.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\Desktop\\C#\\ex02_H.P\\ex02_H.P\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ex02_H.P\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\ADM\\Desktop\\C#\\ex02_H.P\\ex02_H.P\\Entities\\Product.cs",
+              "RelativeToolTip": "ex02_H.P\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T20:09:56.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\Desktop\\C#\\ex02_H.P\\ex02_H.P\\Program.cs",
+              "RelativeDocumentMoniker": "ex02_H.P\\Program.cs",
+              "ToolTip": "C:\\Users\\ADM\\Desktop\\C#\\ex02_H.P\\ex02_H.P\\Program.cs",
+              "RelativeToolTip": "ex02_H.P\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwD0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T20:06:06.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

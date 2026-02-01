@@ -1,0 +1,14 @@
+C:\Users\ADM\Desktop\C#\ex02_H.P\ex02_H.P\bin\Debug\net8.0\ex02_H.P.exe
+C:\Users\ADM\Desktop\C#\ex02_H.P\ex02_H.P\bin\Debug\net8.0\ex02_H.P.deps.json
+C:\Users\ADM\Desktop\C#\ex02_H.P\ex02_H.P\bin\Debug\net8.0\ex02_H.P.runtimeconfig.json
+C:\Users\ADM\Desktop\C#\ex02_H.P\ex02_H.P\bin\Debug\net8.0\ex02_H.P.dll
+C:\Users\ADM\Desktop\C#\ex02_H.P\ex02_H.P\bin\Debug\net8.0\ex02_H.P.pdb
+C:\Users\ADM\Desktop\C#\ex02_H.P\ex02_H.P\obj\Debug\net8.0\ex02_H.P.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\C#\ex02_H.P\ex02_H.P\obj\Debug\net8.0\ex02_H.P.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\C#\ex02_H.P\ex02_H.P\obj\Debug\net8.0\ex02_H.P.AssemblyInfo.cs
+C:\Users\ADM\Desktop\C#\ex02_H.P\ex02_H.P\obj\Debug\net8.0\ex02_H.P.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\C#\ex02_H.P\ex02_H.P\obj\Debug\net8.0\ex02_H.P.dll
+C:\Users\ADM\Desktop\C#\ex02_H.P\ex02_H.P\obj\Debug\net8.0\refint\ex02_H.P.dll
+C:\Users\ADM\Desktop\C#\ex02_H.P\ex02_H.P\obj\Debug\net8.0\ex02_H.P.pdb
+C:\Users\ADM\Desktop\C#\ex02_H.P\ex02_H.P\obj\Debug\net8.0\ex02_H.P.genruntimeconfig.cache
+C:\Users\ADM\Desktop\C#\ex02_H.P\ex02_H.P\obj\Debug\net8.0\ref\ex02_H.P.dll
