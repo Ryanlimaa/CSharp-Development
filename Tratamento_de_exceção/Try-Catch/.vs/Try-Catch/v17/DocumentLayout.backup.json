@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADM\\Desktop\\C#\\Try-Catch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4011357-B697-435F-B67C-3D7E51536F63}|Try-Catch\\Try-Catch.csproj|c:\\users\\adm\\desktop\\c#\\try-catch\\try-catch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4011357-B697-435F-B67C-3D7E51536F63}|Try-Catch\\Try-Catch.csproj|solutionrelative:try-catch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\Desktop\\C#\\Try-Catch\\Try-Catch\\Program.cs",
+              "RelativeDocumentMoniker": "Try-Catch\\Program.cs",
+              "ToolTip": "C:\\Users\\ADM\\Desktop\\C#\\Try-Catch\\Try-Catch\\Program.cs",
+              "RelativeToolTip": "Try-Catch\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAASwAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T20:35:36.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

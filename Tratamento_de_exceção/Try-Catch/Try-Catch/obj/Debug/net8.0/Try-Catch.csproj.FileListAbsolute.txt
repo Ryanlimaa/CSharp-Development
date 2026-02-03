@@ -1,0 +1,14 @@
+C:\Users\ADM\Desktop\C#\Try-Catch\Try-Catch\bin\Debug\net8.0\Try-Catch.exe
+C:\Users\ADM\Desktop\C#\Try-Catch\Try-Catch\bin\Debug\net8.0\Try-Catch.deps.json
+C:\Users\ADM\Desktop\C#\Try-Catch\Try-Catch\bin\Debug\net8.0\Try-Catch.runtimeconfig.json
+C:\Users\ADM\Desktop\C#\Try-Catch\Try-Catch\bin\Debug\net8.0\Try-Catch.dll
+C:\Users\ADM\Desktop\C#\Try-Catch\Try-Catch\bin\Debug\net8.0\Try-Catch.pdb
+C:\Users\ADM\Desktop\C#\Try-Catch\Try-Catch\obj\Debug\net8.0\Try-Catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\C#\Try-Catch\Try-Catch\obj\Debug\net8.0\Try-Catch.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\C#\Try-Catch\Try-Catch\obj\Debug\net8.0\Try-Catch.AssemblyInfo.cs
+C:\Users\ADM\Desktop\C#\Try-Catch\Try-Catch\obj\Debug\net8.0\Try-Catch.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\C#\Try-Catch\Try-Catch\obj\Debug\net8.0\Try-Catch.dll
+C:\Users\ADM\Desktop\C#\Try-Catch\Try-Catch\obj\Debug\net8.0\refint\Try-Catch.dll
+C:\Users\ADM\Desktop\C#\Try-Catch\Try-Catch\obj\Debug\net8.0\Try-Catch.pdb
+C:\Users\ADM\Desktop\C#\Try-Catch\Try-Catch\obj\Debug\net8.0\Try-Catch.genruntimeconfig.cache
+C:\Users\ADM\Desktop\C#\Try-Catch\Try-Catch\obj\Debug\net8.0\ref\Try-Catch.dll
