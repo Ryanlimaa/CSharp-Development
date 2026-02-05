@@ -1,0 +1,14 @@
+C:\C#\Aquivos\StreamWriter\StreamWriter\bin\Debug\net8.0\StreamWriter.exe
+C:\C#\Aquivos\StreamWriter\StreamWriter\bin\Debug\net8.0\StreamWriter.deps.json
+C:\C#\Aquivos\StreamWriter\StreamWriter\bin\Debug\net8.0\StreamWriter.runtimeconfig.json
+C:\C#\Aquivos\StreamWriter\StreamWriter\bin\Debug\net8.0\StreamWriter.dll
+C:\C#\Aquivos\StreamWriter\StreamWriter\bin\Debug\net8.0\StreamWriter.pdb
+C:\C#\Aquivos\StreamWriter\StreamWriter\obj\Debug\net8.0\StreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Aquivos\StreamWriter\StreamWriter\obj\Debug\net8.0\StreamWriter.AssemblyInfoInputs.cache
+C:\C#\Aquivos\StreamWriter\StreamWriter\obj\Debug\net8.0\StreamWriter.AssemblyInfo.cs
+C:\C#\Aquivos\StreamWriter\StreamWriter\obj\Debug\net8.0\StreamWriter.csproj.CoreCompileInputs.cache
+C:\C#\Aquivos\StreamWriter\StreamWriter\obj\Debug\net8.0\StreamWriter.dll
+C:\C#\Aquivos\StreamWriter\StreamWriter\obj\Debug\net8.0\refint\StreamWriter.dll
+C:\C#\Aquivos\StreamWriter\StreamWriter\obj\Debug\net8.0\StreamWriter.pdb
+C:\C#\Aquivos\StreamWriter\StreamWriter\obj\Debug\net8.0\StreamWriter.genruntimeconfig.cache
+C:\C#\Aquivos\StreamWriter\StreamWriter\obj\Debug\net8.0\ref\StreamWriter.dll

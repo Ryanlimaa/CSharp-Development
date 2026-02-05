@@ -1,0 +1,14 @@
+C:\C#\Arquivos\File_FileInfo\Aquivos\bin\Debug\net8.0\File_FileInfo.exe
+C:\C#\Arquivos\File_FileInfo\Aquivos\bin\Debug\net8.0\File_FileInfo.deps.json
+C:\C#\Arquivos\File_FileInfo\Aquivos\bin\Debug\net8.0\File_FileInfo.runtimeconfig.json
+C:\C#\Arquivos\File_FileInfo\Aquivos\bin\Debug\net8.0\File_FileInfo.dll
+C:\C#\Arquivos\File_FileInfo\Aquivos\bin\Debug\net8.0\File_FileInfo.pdb
+C:\C#\Arquivos\File_FileInfo\Aquivos\obj\Debug\net8.0\File_FileInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Arquivos\File_FileInfo\Aquivos\obj\Debug\net8.0\File_FileInfo.AssemblyInfoInputs.cache
+C:\C#\Arquivos\File_FileInfo\Aquivos\obj\Debug\net8.0\File_FileInfo.AssemblyInfo.cs
+C:\C#\Arquivos\File_FileInfo\Aquivos\obj\Debug\net8.0\File_FileInfo.csproj.CoreCompileInputs.cache
+C:\C#\Arquivos\File_FileInfo\Aquivos\obj\Debug\net8.0\File_FileInfo.dll
+C:\C#\Arquivos\File_FileInfo\Aquivos\obj\Debug\net8.0\refint\File_FileInfo.dll
+C:\C#\Arquivos\File_FileInfo\Aquivos\obj\Debug\net8.0\File_FileInfo.pdb
+C:\C#\Arquivos\File_FileInfo\Aquivos\obj\Debug\net8.0\File_FileInfo.genruntimeconfig.cache
+C:\C#\Arquivos\File_FileInfo\Aquivos\obj\Debug\net8.0\ref\File_FileInfo.dll

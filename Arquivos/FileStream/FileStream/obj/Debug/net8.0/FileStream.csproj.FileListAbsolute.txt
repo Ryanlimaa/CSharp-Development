@@ -1,0 +1,14 @@
+C:\C#\Arquivos\FileStream\FileStream\bin\Debug\net8.0\FileStream.exe
+C:\C#\Arquivos\FileStream\FileStream\bin\Debug\net8.0\FileStream.deps.json
+C:\C#\Arquivos\FileStream\FileStream\bin\Debug\net8.0\FileStream.runtimeconfig.json
+C:\C#\Arquivos\FileStream\FileStream\bin\Debug\net8.0\FileStream.dll
+C:\C#\Arquivos\FileStream\FileStream\bin\Debug\net8.0\FileStream.pdb
+C:\C#\Arquivos\FileStream\FileStream\obj\Debug\net8.0\FileStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Arquivos\FileStream\FileStream\obj\Debug\net8.0\FileStream.AssemblyInfoInputs.cache
+C:\C#\Arquivos\FileStream\FileStream\obj\Debug\net8.0\FileStream.AssemblyInfo.cs
+C:\C#\Arquivos\FileStream\FileStream\obj\Debug\net8.0\FileStream.csproj.CoreCompileInputs.cache
+C:\C#\Arquivos\FileStream\FileStream\obj\Debug\net8.0\FileStream.dll
+C:\C#\Arquivos\FileStream\FileStream\obj\Debug\net8.0\refint\FileStream.dll
+C:\C#\Arquivos\FileStream\FileStream\obj\Debug\net8.0\FileStream.pdb
+C:\C#\Arquivos\FileStream\FileStream\obj\Debug\net8.0\FileStream.genruntimeconfig.cache
+C:\C#\Arquivos\FileStream\FileStream\obj\Debug\net8.0\ref\FileStream.dll

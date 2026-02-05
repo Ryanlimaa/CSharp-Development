@@ -1,0 +1,14 @@
+C:\C#\Arquivos\Directory_DirectoryInfo\Directory_DirectoryInfo\bin\Debug\net8.0\Directory_DirectoryInfo.exe
+C:\C#\Arquivos\Directory_DirectoryInfo\Directory_DirectoryInfo\bin\Debug\net8.0\Directory_DirectoryInfo.deps.json
+C:\C#\Arquivos\Directory_DirectoryInfo\Directory_DirectoryInfo\bin\Debug\net8.0\Directory_DirectoryInfo.runtimeconfig.json
+C:\C#\Arquivos\Directory_DirectoryInfo\Directory_DirectoryInfo\bin\Debug\net8.0\Directory_DirectoryInfo.dll
+C:\C#\Arquivos\Directory_DirectoryInfo\Directory_DirectoryInfo\bin\Debug\net8.0\Directory_DirectoryInfo.pdb
+C:\C#\Arquivos\Directory_DirectoryInfo\Directory_DirectoryInfo\obj\Debug\net8.0\Directory_DirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Arquivos\Directory_DirectoryInfo\Directory_DirectoryInfo\obj\Debug\net8.0\Directory_DirectoryInfo.AssemblyInfoInputs.cache
+C:\C#\Arquivos\Directory_DirectoryInfo\Directory_DirectoryInfo\obj\Debug\net8.0\Directory_DirectoryInfo.AssemblyInfo.cs
+C:\C#\Arquivos\Directory_DirectoryInfo\Directory_DirectoryInfo\obj\Debug\net8.0\Directory_DirectoryInfo.csproj.CoreCompileInputs.cache
+C:\C#\Arquivos\Directory_DirectoryInfo\Directory_DirectoryInfo\obj\Debug\net8.0\Directory_DirectoryInfo.dll
+C:\C#\Arquivos\Directory_DirectoryInfo\Directory_DirectoryInfo\obj\Debug\net8.0\refint\Directory_DirectoryInfo.dll
+C:\C#\Arquivos\Directory_DirectoryInfo\Directory_DirectoryInfo\obj\Debug\net8.0\Directory_DirectoryInfo.pdb
+C:\C#\Arquivos\Directory_DirectoryInfo\Directory_DirectoryInfo\obj\Debug\net8.0\Directory_DirectoryInfo.genruntimeconfig.cache
+C:\C#\Arquivos\Directory_DirectoryInfo\Directory_DirectoryInfo\obj\Debug\net8.0\ref\Directory_DirectoryInfo.dll
