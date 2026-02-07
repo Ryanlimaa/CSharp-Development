@@ -1,0 +1,14 @@
+C:\C#\GenericsExemplo\GenericsExemplo\bin\Debug\net8.0\GenericsExemplo.exe
+C:\C#\GenericsExemplo\GenericsExemplo\bin\Debug\net8.0\GenericsExemplo.deps.json
+C:\C#\GenericsExemplo\GenericsExemplo\bin\Debug\net8.0\GenericsExemplo.runtimeconfig.json
+C:\C#\GenericsExemplo\GenericsExemplo\bin\Debug\net8.0\GenericsExemplo.dll
+C:\C#\GenericsExemplo\GenericsExemplo\bin\Debug\net8.0\GenericsExemplo.pdb
+C:\C#\GenericsExemplo\GenericsExemplo\obj\Debug\net8.0\GenericsExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\GenericsExemplo\GenericsExemplo\obj\Debug\net8.0\GenericsExemplo.AssemblyInfoInputs.cache
+C:\C#\GenericsExemplo\GenericsExemplo\obj\Debug\net8.0\GenericsExemplo.AssemblyInfo.cs
+C:\C#\GenericsExemplo\GenericsExemplo\obj\Debug\net8.0\GenericsExemplo.csproj.CoreCompileInputs.cache
+C:\C#\GenericsExemplo\GenericsExemplo\obj\Debug\net8.0\GenericsExemplo.dll
+C:\C#\GenericsExemplo\GenericsExemplo\obj\Debug\net8.0\refint\GenericsExemplo.dll
+C:\C#\GenericsExemplo\GenericsExemplo\obj\Debug\net8.0\GenericsExemplo.pdb
+C:\C#\GenericsExemplo\GenericsExemplo\obj\Debug\net8.0\GenericsExemplo.genruntimeconfig.cache
+C:\C#\GenericsExemplo\GenericsExemplo\obj\Debug\net8.0\ref\GenericsExemplo.dll
