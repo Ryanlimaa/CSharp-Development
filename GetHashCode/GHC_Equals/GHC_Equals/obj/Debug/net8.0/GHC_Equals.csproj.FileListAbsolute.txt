@@ -1,0 +1,14 @@
+C:\C#\GHC_Equals\GHC_Equals\bin\Debug\net8.0\GHC_Equals.exe
+C:\C#\GHC_Equals\GHC_Equals\bin\Debug\net8.0\GHC_Equals.deps.json
+C:\C#\GHC_Equals\GHC_Equals\bin\Debug\net8.0\GHC_Equals.runtimeconfig.json
+C:\C#\GHC_Equals\GHC_Equals\bin\Debug\net8.0\GHC_Equals.dll
+C:\C#\GHC_Equals\GHC_Equals\bin\Debug\net8.0\GHC_Equals.pdb
+C:\C#\GHC_Equals\GHC_Equals\obj\Debug\net8.0\GHC_Equals.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\GHC_Equals\GHC_Equals\obj\Debug\net8.0\GHC_Equals.AssemblyInfoInputs.cache
+C:\C#\GHC_Equals\GHC_Equals\obj\Debug\net8.0\GHC_Equals.AssemblyInfo.cs
+C:\C#\GHC_Equals\GHC_Equals\obj\Debug\net8.0\GHC_Equals.csproj.CoreCompileInputs.cache
+C:\C#\GHC_Equals\GHC_Equals\obj\Debug\net8.0\GHC_Equals.dll
+C:\C#\GHC_Equals\GHC_Equals\obj\Debug\net8.0\refint\GHC_Equals.dll
+C:\C#\GHC_Equals\GHC_Equals\obj\Debug\net8.0\GHC_Equals.pdb
+C:\C#\GHC_Equals\GHC_Equals\obj\Debug\net8.0\GHC_Equals.genruntimeconfig.cache
+C:\C#\GHC_Equals\GHC_Equals\obj\Debug\net8.0\ref\GHC_Equals.dll
