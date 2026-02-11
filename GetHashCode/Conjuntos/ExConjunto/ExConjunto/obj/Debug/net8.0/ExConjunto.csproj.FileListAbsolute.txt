@@ -1,0 +1,14 @@
+C:\C#\ExConjunto\ExConjunto\bin\Debug\net8.0\ExConjunto.exe
+C:\C#\ExConjunto\ExConjunto\bin\Debug\net8.0\ExConjunto.deps.json
+C:\C#\ExConjunto\ExConjunto\bin\Debug\net8.0\ExConjunto.runtimeconfig.json
+C:\C#\ExConjunto\ExConjunto\bin\Debug\net8.0\ExConjunto.dll
+C:\C#\ExConjunto\ExConjunto\bin\Debug\net8.0\ExConjunto.pdb
+C:\C#\ExConjunto\ExConjunto\obj\Debug\net8.0\ExConjunto.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\ExConjunto\ExConjunto\obj\Debug\net8.0\ExConjunto.AssemblyInfoInputs.cache
+C:\C#\ExConjunto\ExConjunto\obj\Debug\net8.0\ExConjunto.AssemblyInfo.cs
+C:\C#\ExConjunto\ExConjunto\obj\Debug\net8.0\ExConjunto.csproj.CoreCompileInputs.cache
+C:\C#\ExConjunto\ExConjunto\obj\Debug\net8.0\ExConjunto.dll
+C:\C#\ExConjunto\ExConjunto\obj\Debug\net8.0\refint\ExConjunto.dll
+C:\C#\ExConjunto\ExConjunto\obj\Debug\net8.0\ExConjunto.pdb
+C:\C#\ExConjunto\ExConjunto\obj\Debug\net8.0\ExConjunto.genruntimeconfig.cache
+C:\C#\ExConjunto\ExConjunto\obj\Debug\net8.0\ref\ExConjunto.dll

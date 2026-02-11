@@ -1,0 +1,14 @@
+C:\C#\SortedSetExemplo\SortedSetExemplo\obj\Debug\net8.0\SortedSetExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\SortedSetExemplo\SortedSetExemplo\obj\Debug\net8.0\SortedSetExemplo.AssemblyInfoInputs.cache
+C:\C#\SortedSetExemplo\SortedSetExemplo\obj\Debug\net8.0\SortedSetExemplo.AssemblyInfo.cs
+C:\C#\SortedSetExemplo\SortedSetExemplo\obj\Debug\net8.0\SortedSetExemplo.csproj.CoreCompileInputs.cache
+C:\C#\SortedSetExemplo\SortedSetExemplo\bin\Debug\net8.0\SortedSetExemplo.exe
+C:\C#\SortedSetExemplo\SortedSetExemplo\bin\Debug\net8.0\SortedSetExemplo.deps.json
+C:\C#\SortedSetExemplo\SortedSetExemplo\bin\Debug\net8.0\SortedSetExemplo.runtimeconfig.json
+C:\C#\SortedSetExemplo\SortedSetExemplo\bin\Debug\net8.0\SortedSetExemplo.dll
+C:\C#\SortedSetExemplo\SortedSetExemplo\bin\Debug\net8.0\SortedSetExemplo.pdb
+C:\C#\SortedSetExemplo\SortedSetExemplo\obj\Debug\net8.0\SortedSetExemplo.dll
+C:\C#\SortedSetExemplo\SortedSetExemplo\obj\Debug\net8.0\refint\SortedSetExemplo.dll
+C:\C#\SortedSetExemplo\SortedSetExemplo\obj\Debug\net8.0\SortedSetExemplo.pdb
+C:\C#\SortedSetExemplo\SortedSetExemplo\obj\Debug\net8.0\SortedSetExemplo.genruntimeconfig.cache
+C:\C#\SortedSetExemplo\SortedSetExemplo\obj\Debug\net8.0\ref\SortedSetExemplo.dll

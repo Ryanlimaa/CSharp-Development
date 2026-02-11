@@ -1,0 +1,14 @@
+C:\C#\HashSetExemplo\HashSetExemplo\bin\Debug\net8.0\HashSetExemplo.exe
+C:\C#\HashSetExemplo\HashSetExemplo\bin\Debug\net8.0\HashSetExemplo.deps.json
+C:\C#\HashSetExemplo\HashSetExemplo\bin\Debug\net8.0\HashSetExemplo.runtimeconfig.json
+C:\C#\HashSetExemplo\HashSetExemplo\bin\Debug\net8.0\HashSetExemplo.dll
+C:\C#\HashSetExemplo\HashSetExemplo\bin\Debug\net8.0\HashSetExemplo.pdb
+C:\C#\HashSetExemplo\HashSetExemplo\obj\Debug\net8.0\HashSetExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\HashSetExemplo\HashSetExemplo\obj\Debug\net8.0\HashSetExemplo.AssemblyInfoInputs.cache
+C:\C#\HashSetExemplo\HashSetExemplo\obj\Debug\net8.0\HashSetExemplo.AssemblyInfo.cs
+C:\C#\HashSetExemplo\HashSetExemplo\obj\Debug\net8.0\HashSetExemplo.csproj.CoreCompileInputs.cache
+C:\C#\HashSetExemplo\HashSetExemplo\obj\Debug\net8.0\HashSetExemplo.dll
+C:\C#\HashSetExemplo\HashSetExemplo\obj\Debug\net8.0\refint\HashSetExemplo.dll
+C:\C#\HashSetExemplo\HashSetExemplo\obj\Debug\net8.0\HashSetExemplo.pdb
+C:\C#\HashSetExemplo\HashSetExemplo\obj\Debug\net8.0\HashSetExemplo.genruntimeconfig.cache
+C:\C#\HashSetExemplo\HashSetExemplo\obj\Debug\net8.0\ref\HashSetExemplo.dll
