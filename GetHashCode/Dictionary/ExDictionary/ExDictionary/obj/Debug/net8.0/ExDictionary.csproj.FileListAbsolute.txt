@@ -1,0 +1,14 @@
+C:\C#\ExDictionary\ExDictionary\bin\Debug\net8.0\ExDictionary.exe
+C:\C#\ExDictionary\ExDictionary\bin\Debug\net8.0\ExDictionary.deps.json
+C:\C#\ExDictionary\ExDictionary\bin\Debug\net8.0\ExDictionary.runtimeconfig.json
+C:\C#\ExDictionary\ExDictionary\bin\Debug\net8.0\ExDictionary.dll
+C:\C#\ExDictionary\ExDictionary\bin\Debug\net8.0\ExDictionary.pdb
+C:\C#\ExDictionary\ExDictionary\obj\Debug\net8.0\ExDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\ExDictionary\ExDictionary\obj\Debug\net8.0\ExDictionary.AssemblyInfoInputs.cache
+C:\C#\ExDictionary\ExDictionary\obj\Debug\net8.0\ExDictionary.AssemblyInfo.cs
+C:\C#\ExDictionary\ExDictionary\obj\Debug\net8.0\ExDictionary.csproj.CoreCompileInputs.cache
+C:\C#\ExDictionary\ExDictionary\obj\Debug\net8.0\ExDictionary.dll
+C:\C#\ExDictionary\ExDictionary\obj\Debug\net8.0\refint\ExDictionary.dll
+C:\C#\ExDictionary\ExDictionary\obj\Debug\net8.0\ExDictionary.pdb
+C:\C#\ExDictionary\ExDictionary\obj\Debug\net8.0\ExDictionary.genruntimeconfig.cache
+C:\C#\ExDictionary\ExDictionary\obj\Debug\net8.0\ref\ExDictionary.dll
