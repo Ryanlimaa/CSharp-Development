@@ -1,0 +1,14 @@
+C:\C#\ExtencionMethodsExemplo\ExtencionMethodsExemplo\bin\Debug\net8.0\ExtensionMethodsExemplo.exe
+C:\C#\ExtencionMethodsExemplo\ExtencionMethodsExemplo\bin\Debug\net8.0\ExtensionMethodsExemplo.deps.json
+C:\C#\ExtencionMethodsExemplo\ExtencionMethodsExemplo\bin\Debug\net8.0\ExtensionMethodsExemplo.runtimeconfig.json
+C:\C#\ExtencionMethodsExemplo\ExtencionMethodsExemplo\bin\Debug\net8.0\ExtensionMethodsExemplo.dll
+C:\C#\ExtencionMethodsExemplo\ExtencionMethodsExemplo\bin\Debug\net8.0\ExtensionMethodsExemplo.pdb
+C:\C#\ExtencionMethodsExemplo\ExtencionMethodsExemplo\obj\Debug\net8.0\ExtensionMethodsExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\ExtencionMethodsExemplo\ExtencionMethodsExemplo\obj\Debug\net8.0\ExtensionMethodsExemplo.AssemblyInfoInputs.cache
+C:\C#\ExtencionMethodsExemplo\ExtencionMethodsExemplo\obj\Debug\net8.0\ExtensionMethodsExemplo.AssemblyInfo.cs
+C:\C#\ExtencionMethodsExemplo\ExtencionMethodsExemplo\obj\Debug\net8.0\ExtensionMethodsExemplo.csproj.CoreCompileInputs.cache
+C:\C#\ExtencionMethodsExemplo\ExtencionMethodsExemplo\obj\Debug\net8.0\ExtensionMethodsExemplo.dll
+C:\C#\ExtencionMethodsExemplo\ExtencionMethodsExemplo\obj\Debug\net8.0\refint\ExtensionMethodsExemplo.dll
+C:\C#\ExtencionMethodsExemplo\ExtencionMethodsExemplo\obj\Debug\net8.0\ExtensionMethodsExemplo.pdb
+C:\C#\ExtencionMethodsExemplo\ExtencionMethodsExemplo\obj\Debug\net8.0\ExtensionMethodsExemplo.genruntimeconfig.cache
+C:\C#\ExtencionMethodsExemplo\ExtencionMethodsExemplo\obj\Debug\net8.0\ref\ExtensionMethodsExemplo.dll

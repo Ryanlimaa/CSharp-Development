@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\ExtencionMethodsExemplo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72AFFB47-099A-4E31-A067-8BB2FD1734CB}|ExtencionMethodsExemplo\\ExtencionMethodsExemplo.csproj|c:\\c#\\extencionmethodsexemplo\\extencionmethodsexemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AFFB47-099A-4E31-A067-8BB2FD1734CB}|ExtencionMethodsExemplo\\ExtencionMethodsExemplo.csproj|solutionrelative:extencionmethodsexemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AFFB47-099A-4E31-A067-8BB2FD1734CB}|ExtencionMethodsExemplo\\ExtensionMethodsExemplo.csproj|c:\\c#\\extencionmethodsexemplo\\extencionmethodsexemplo\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AFFB47-099A-4E31-A067-8BB2FD1734CB}|ExtencionMethodsExemplo\\ExtensionMethodsExemplo.csproj|solutionrelative:extencionmethodsexemplo\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AFFB47-099A-4E31-A067-8BB2FD1734CB}|ExtencionMethodsExemplo\\ExtencionMethodsExemplo.csproj|c:\\c#\\extencionmethodsexemplo\\extencionmethodsexemplo\\extensions\\datetimeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AFFB47-099A-4E31-A067-8BB2FD1734CB}|ExtencionMethodsExemplo\\ExtencionMethodsExemplo.csproj|solutionrelative:extencionmethodsexemplo\\extensions\\datetimeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "C:\\C#\\ExtencionMethodsExemplo\\ExtencionMethodsExemplo\\Extensions\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "ExtencionMethodsExemplo\\Extensions\\StringExtensions.cs",
+              "ToolTip": "C:\\C#\\ExtencionMethodsExemplo\\ExtencionMethodsExemplo\\Extensions\\StringExtensions.cs",
+              "RelativeToolTip": "ExtencionMethodsExemplo\\Extensions\\StringExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T21:04:50.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DateTimeExtensions.cs",
+              "DocumentMoniker": "C:\\C#\\ExtencionMethodsExemplo\\ExtencionMethodsExemplo\\Extensions\\DateTimeExtensions.cs",
+              "RelativeDocumentMoniker": "ExtencionMethodsExemplo\\Extensions\\DateTimeExtensions.cs",
+              "ToolTip": "C:\\C#\\ExtencionMethodsExemplo\\ExtencionMethodsExemplo\\Extensions\\DateTimeExtensions.cs",
+              "RelativeToolTip": "ExtencionMethodsExemplo\\Extensions\\DateTimeExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T20:22:47.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\ExtencionMethodsExemplo\\ExtencionMethodsExemplo\\Program.cs",
+              "RelativeDocumentMoniker": "ExtencionMethodsExemplo\\Program.cs",
+              "ToolTip": "C:\\C#\\ExtencionMethodsExemplo\\ExtencionMethodsExemplo\\Program.cs",
+              "RelativeToolTip": "ExtencionMethodsExemplo\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T20:15:17.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
