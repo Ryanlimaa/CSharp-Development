@@ -1,0 +1,14 @@
+C:\C#\DelegatesPredicate\DelegatesPredicate\bin\Debug\net8.0\DelegatesPredicate.exe
+C:\C#\DelegatesPredicate\DelegatesPredicate\bin\Debug\net8.0\DelegatesPredicate.deps.json
+C:\C#\DelegatesPredicate\DelegatesPredicate\bin\Debug\net8.0\DelegatesPredicate.runtimeconfig.json
+C:\C#\DelegatesPredicate\DelegatesPredicate\bin\Debug\net8.0\DelegatesPredicate.dll
+C:\C#\DelegatesPredicate\DelegatesPredicate\bin\Debug\net8.0\DelegatesPredicate.pdb
+C:\C#\DelegatesPredicate\DelegatesPredicate\obj\Debug\net8.0\DelegatesPredicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\DelegatesPredicate\DelegatesPredicate\obj\Debug\net8.0\DelegatesPredicate.AssemblyInfoInputs.cache
+C:\C#\DelegatesPredicate\DelegatesPredicate\obj\Debug\net8.0\DelegatesPredicate.AssemblyInfo.cs
+C:\C#\DelegatesPredicate\DelegatesPredicate\obj\Debug\net8.0\DelegatesPredicate.csproj.CoreCompileInputs.cache
+C:\C#\DelegatesPredicate\DelegatesPredicate\obj\Debug\net8.0\DelegatesPredicate.dll
+C:\C#\DelegatesPredicate\DelegatesPredicate\obj\Debug\net8.0\refint\DelegatesPredicate.dll
+C:\C#\DelegatesPredicate\DelegatesPredicate\obj\Debug\net8.0\DelegatesPredicate.pdb
+C:\C#\DelegatesPredicate\DelegatesPredicate\obj\Debug\net8.0\DelegatesPredicate.genruntimeconfig.cache
+C:\C#\DelegatesPredicate\DelegatesPredicate\obj\Debug\net8.0\ref\DelegatesPredicate.dll

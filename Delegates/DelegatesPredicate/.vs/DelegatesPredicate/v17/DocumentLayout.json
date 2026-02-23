@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\DelegatesPredicate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40DF8EBD-47EC-4869-A54D-3AA2D46DF397}|DelegatesPredicate\\DelegatesPredicate.csproj|c:\\c#\\delegatespredicate\\delegatespredicate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DF8EBD-47EC-4869-A54D-3AA2D46DF397}|DelegatesPredicate\\DelegatesPredicate.csproj|solutionrelative:delegatespredicate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DF8EBD-47EC-4869-A54D-3AA2D46DF397}|DelegatesPredicate\\DelegatesPredicate.csproj|c:\\c#\\delegatespredicate\\delegatespredicate\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DF8EBD-47EC-4869-A54D-3AA2D46DF397}|DelegatesPredicate\\DelegatesPredicate.csproj|solutionrelative:delegatespredicate\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\C#\\DelegatesPredicate\\DelegatesPredicate\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "DelegatesPredicate\\Entities\\Product.cs",
+              "ToolTip": "C:\\C#\\DelegatesPredicate\\DelegatesPredicate\\Entities\\Product.cs",
+              "RelativeToolTip": "DelegatesPredicate\\Entities\\Product.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA6wBYAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T17:41:13.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\DelegatesPredicate\\DelegatesPredicate\\Program.cs",
+              "RelativeDocumentMoniker": "DelegatesPredicate\\Program.cs",
+              "ToolTip": "C:\\C#\\DelegatesPredicate\\DelegatesPredicate\\Program.cs",
+              "RelativeToolTip": "DelegatesPredicate\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAsAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T17:38:09.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

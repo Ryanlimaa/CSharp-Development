@@ -1,0 +1,14 @@
+C:\C#\DelegateFunc\DelegateFunc\bin\Debug\net8.0\DelegateFunc.exe
+C:\C#\DelegateFunc\DelegateFunc\bin\Debug\net8.0\DelegateFunc.deps.json
+C:\C#\DelegateFunc\DelegateFunc\bin\Debug\net8.0\DelegateFunc.runtimeconfig.json
+C:\C#\DelegateFunc\DelegateFunc\bin\Debug\net8.0\DelegateFunc.dll
+C:\C#\DelegateFunc\DelegateFunc\bin\Debug\net8.0\DelegateFunc.pdb
+C:\C#\DelegateFunc\DelegateFunc\obj\Debug\net8.0\DelegateFunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\DelegateFunc\DelegateFunc\obj\Debug\net8.0\DelegateFunc.AssemblyInfoInputs.cache
+C:\C#\DelegateFunc\DelegateFunc\obj\Debug\net8.0\DelegateFunc.AssemblyInfo.cs
+C:\C#\DelegateFunc\DelegateFunc\obj\Debug\net8.0\DelegateFunc.csproj.CoreCompileInputs.cache
+C:\C#\DelegateFunc\DelegateFunc\obj\Debug\net8.0\DelegateFunc.dll
+C:\C#\DelegateFunc\DelegateFunc\obj\Debug\net8.0\refint\DelegateFunc.dll
+C:\C#\DelegateFunc\DelegateFunc\obj\Debug\net8.0\DelegateFunc.pdb
+C:\C#\DelegateFunc\DelegateFunc\obj\Debug\net8.0\DelegateFunc.genruntimeconfig.cache
+C:\C#\DelegateFunc\DelegateFunc\obj\Debug\net8.0\ref\DelegateFunc.dll

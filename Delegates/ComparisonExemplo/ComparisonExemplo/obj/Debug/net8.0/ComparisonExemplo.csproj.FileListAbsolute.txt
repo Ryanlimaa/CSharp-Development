@@ -1,0 +1,14 @@
+C:\C#\ComparisonExemplo\ComparisonExemplo\bin\Debug\net8.0\ComparisonExemplo.exe
+C:\C#\ComparisonExemplo\ComparisonExemplo\bin\Debug\net8.0\ComparisonExemplo.deps.json
+C:\C#\ComparisonExemplo\ComparisonExemplo\bin\Debug\net8.0\ComparisonExemplo.runtimeconfig.json
+C:\C#\ComparisonExemplo\ComparisonExemplo\bin\Debug\net8.0\ComparisonExemplo.dll
+C:\C#\ComparisonExemplo\ComparisonExemplo\bin\Debug\net8.0\ComparisonExemplo.pdb
+C:\C#\ComparisonExemplo\ComparisonExemplo\obj\Debug\net8.0\ComparisonExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\ComparisonExemplo\ComparisonExemplo\obj\Debug\net8.0\ComparisonExemplo.AssemblyInfoInputs.cache
+C:\C#\ComparisonExemplo\ComparisonExemplo\obj\Debug\net8.0\ComparisonExemplo.AssemblyInfo.cs
+C:\C#\ComparisonExemplo\ComparisonExemplo\obj\Debug\net8.0\ComparisonExemplo.csproj.CoreCompileInputs.cache
+C:\C#\ComparisonExemplo\ComparisonExemplo\obj\Debug\net8.0\ComparisonExemplo.dll
+C:\C#\ComparisonExemplo\ComparisonExemplo\obj\Debug\net8.0\refint\ComparisonExemplo.dll
+C:\C#\ComparisonExemplo\ComparisonExemplo\obj\Debug\net8.0\ComparisonExemplo.pdb
+C:\C#\ComparisonExemplo\ComparisonExemplo\obj\Debug\net8.0\ComparisonExemplo.genruntimeconfig.cache
+C:\C#\ComparisonExemplo\ComparisonExemplo\obj\Debug\net8.0\ref\ComparisonExemplo.dll
