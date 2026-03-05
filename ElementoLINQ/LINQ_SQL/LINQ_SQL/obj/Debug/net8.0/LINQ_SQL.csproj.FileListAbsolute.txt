@@ -1,0 +1,14 @@
+C:\C#\LINQ_SQL\LINQ_SQL\bin\Debug\net8.0\LINQ_SQL.exe
+C:\C#\LINQ_SQL\LINQ_SQL\bin\Debug\net8.0\LINQ_SQL.deps.json
+C:\C#\LINQ_SQL\LINQ_SQL\bin\Debug\net8.0\LINQ_SQL.runtimeconfig.json
+C:\C#\LINQ_SQL\LINQ_SQL\bin\Debug\net8.0\LINQ_SQL.dll
+C:\C#\LINQ_SQL\LINQ_SQL\bin\Debug\net8.0\LINQ_SQL.pdb
+C:\C#\LINQ_SQL\LINQ_SQL\obj\Debug\net8.0\LINQ_SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\LINQ_SQL\LINQ_SQL\obj\Debug\net8.0\LINQ_SQL.AssemblyInfoInputs.cache
+C:\C#\LINQ_SQL\LINQ_SQL\obj\Debug\net8.0\LINQ_SQL.AssemblyInfo.cs
+C:\C#\LINQ_SQL\LINQ_SQL\obj\Debug\net8.0\LINQ_SQL.csproj.CoreCompileInputs.cache
+C:\C#\LINQ_SQL\LINQ_SQL\obj\Debug\net8.0\LINQ_SQL.dll
+C:\C#\LINQ_SQL\LINQ_SQL\obj\Debug\net8.0\refint\LINQ_SQL.dll
+C:\C#\LINQ_SQL\LINQ_SQL\obj\Debug\net8.0\LINQ_SQL.pdb
+C:\C#\LINQ_SQL\LINQ_SQL\obj\Debug\net8.0\LINQ_SQL.genruntimeconfig.cache
+C:\C#\LINQ_SQL\LINQ_SQL\obj\Debug\net8.0\ref\LINQ_SQL.dll

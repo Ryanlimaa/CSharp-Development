@@ -1,0 +1,14 @@
+C:\C#\LINQ_Exemplo\LINQ_Exemplo\bin\Debug\net8.0\LINQ_Exemplo.exe
+C:\C#\LINQ_Exemplo\LINQ_Exemplo\bin\Debug\net8.0\LINQ_Exemplo.deps.json
+C:\C#\LINQ_Exemplo\LINQ_Exemplo\bin\Debug\net8.0\LINQ_Exemplo.runtimeconfig.json
+C:\C#\LINQ_Exemplo\LINQ_Exemplo\bin\Debug\net8.0\LINQ_Exemplo.dll
+C:\C#\LINQ_Exemplo\LINQ_Exemplo\bin\Debug\net8.0\LINQ_Exemplo.pdb
+C:\C#\LINQ_Exemplo\LINQ_Exemplo\obj\Debug\net8.0\LINQ_Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\LINQ_Exemplo\LINQ_Exemplo\obj\Debug\net8.0\LINQ_Exemplo.AssemblyInfoInputs.cache
+C:\C#\LINQ_Exemplo\LINQ_Exemplo\obj\Debug\net8.0\LINQ_Exemplo.AssemblyInfo.cs
+C:\C#\LINQ_Exemplo\LINQ_Exemplo\obj\Debug\net8.0\LINQ_Exemplo.csproj.CoreCompileInputs.cache
+C:\C#\LINQ_Exemplo\LINQ_Exemplo\obj\Debug\net8.0\LINQ_Exemplo.dll
+C:\C#\LINQ_Exemplo\LINQ_Exemplo\obj\Debug\net8.0\refint\LINQ_Exemplo.dll
+C:\C#\LINQ_Exemplo\LINQ_Exemplo\obj\Debug\net8.0\LINQ_Exemplo.pdb
+C:\C#\LINQ_Exemplo\LINQ_Exemplo\obj\Debug\net8.0\LINQ_Exemplo.genruntimeconfig.cache
+C:\C#\LINQ_Exemplo\LINQ_Exemplo\obj\Debug\net8.0\ref\LINQ_Exemplo.dll

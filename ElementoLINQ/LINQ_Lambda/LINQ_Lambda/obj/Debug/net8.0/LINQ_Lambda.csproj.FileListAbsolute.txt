@@ -1,0 +1,14 @@
+C:\C#\LINQ_Lambda\LINQ_Lambda\bin\Debug\net8.0\LINQ_Lambda.exe
+C:\C#\LINQ_Lambda\LINQ_Lambda\bin\Debug\net8.0\LINQ_Lambda.deps.json
+C:\C#\LINQ_Lambda\LINQ_Lambda\bin\Debug\net8.0\LINQ_Lambda.runtimeconfig.json
+C:\C#\LINQ_Lambda\LINQ_Lambda\bin\Debug\net8.0\LINQ_Lambda.dll
+C:\C#\LINQ_Lambda\LINQ_Lambda\bin\Debug\net8.0\LINQ_Lambda.pdb
+C:\C#\LINQ_Lambda\LINQ_Lambda\obj\Debug\net8.0\LINQ_Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\LINQ_Lambda\LINQ_Lambda\obj\Debug\net8.0\LINQ_Lambda.AssemblyInfoInputs.cache
+C:\C#\LINQ_Lambda\LINQ_Lambda\obj\Debug\net8.0\LINQ_Lambda.AssemblyInfo.cs
+C:\C#\LINQ_Lambda\LINQ_Lambda\obj\Debug\net8.0\LINQ_Lambda.csproj.CoreCompileInputs.cache
+C:\C#\LINQ_Lambda\LINQ_Lambda\obj\Debug\net8.0\LINQ_Lambda.dll
+C:\C#\LINQ_Lambda\LINQ_Lambda\obj\Debug\net8.0\refint\LINQ_Lambda.dll
+C:\C#\LINQ_Lambda\LINQ_Lambda\obj\Debug\net8.0\LINQ_Lambda.pdb
+C:\C#\LINQ_Lambda\LINQ_Lambda\obj\Debug\net8.0\LINQ_Lambda.genruntimeconfig.cache
+C:\C#\LINQ_Lambda\LINQ_Lambda\obj\Debug\net8.0\ref\LINQ_Lambda.dll

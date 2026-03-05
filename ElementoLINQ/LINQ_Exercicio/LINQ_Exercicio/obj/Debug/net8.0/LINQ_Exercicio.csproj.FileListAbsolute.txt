@@ -1,0 +1,14 @@
+C:\C#\ElementoLINQ\LINQ_Exercicio\LINQ_Exercicio\bin\Debug\net8.0\LINQ_Exercicio.exe
+C:\C#\ElementoLINQ\LINQ_Exercicio\LINQ_Exercicio\bin\Debug\net8.0\LINQ_Exercicio.deps.json
+C:\C#\ElementoLINQ\LINQ_Exercicio\LINQ_Exercicio\bin\Debug\net8.0\LINQ_Exercicio.runtimeconfig.json
+C:\C#\ElementoLINQ\LINQ_Exercicio\LINQ_Exercicio\bin\Debug\net8.0\LINQ_Exercicio.dll
+C:\C#\ElementoLINQ\LINQ_Exercicio\LINQ_Exercicio\bin\Debug\net8.0\LINQ_Exercicio.pdb
+C:\C#\ElementoLINQ\LINQ_Exercicio\LINQ_Exercicio\obj\Debug\net8.0\LINQ_Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\ElementoLINQ\LINQ_Exercicio\LINQ_Exercicio\obj\Debug\net8.0\LINQ_Exercicio.AssemblyInfoInputs.cache
+C:\C#\ElementoLINQ\LINQ_Exercicio\LINQ_Exercicio\obj\Debug\net8.0\LINQ_Exercicio.AssemblyInfo.cs
+C:\C#\ElementoLINQ\LINQ_Exercicio\LINQ_Exercicio\obj\Debug\net8.0\LINQ_Exercicio.csproj.CoreCompileInputs.cache
+C:\C#\ElementoLINQ\LINQ_Exercicio\LINQ_Exercicio\obj\Debug\net8.0\LINQ_Exercicio.dll
+C:\C#\ElementoLINQ\LINQ_Exercicio\LINQ_Exercicio\obj\Debug\net8.0\refint\LINQ_Exercicio.dll
+C:\C#\ElementoLINQ\LINQ_Exercicio\LINQ_Exercicio\obj\Debug\net8.0\LINQ_Exercicio.pdb
+C:\C#\ElementoLINQ\LINQ_Exercicio\LINQ_Exercicio\obj\Debug\net8.0\LINQ_Exercicio.genruntimeconfig.cache
+C:\C#\ElementoLINQ\LINQ_Exercicio\LINQ_Exercicio\obj\Debug\net8.0\ref\LINQ_Exercicio.dll
