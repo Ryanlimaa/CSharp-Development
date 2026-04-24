@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\Mensalidade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B465297C-8416-49C2-9F18-8A4FAC3F50E2}|Mensalidade\\Mensalidade.csproj|c:\\c#\\mensalidade\\mensalidade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B465297C-8416-49C2-9F18-8A4FAC3F50E2}|Mensalidade\\Mensalidade.csproj|solutionrelative:mensalidade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B465297C-8416-49C2-9F18-8A4FAC3F50E2}|Mensalidade\\Mensalidade.csproj|c:\\c#\\mensalidade\\mensalidade\\entities\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B465297C-8416-49C2-9F18-8A4FAC3F50E2}|Mensalidade\\Mensalidade.csproj|solutionrelative:mensalidade\\entities\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\C#\\Mensalidade\\Mensalidade\\Entities\\Aluno.cs",
+              "RelativeDocumentMoniker": "Mensalidade\\Entities\\Aluno.cs",
+              "ToolTip": "C:\\C#\\Mensalidade\\Mensalidade\\Entities\\Aluno.cs",
+              "RelativeToolTip": "Mensalidade\\Entities\\Aluno.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T20:17:36.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\Mensalidade\\Mensalidade\\Program.cs",
+              "RelativeDocumentMoniker": "Mensalidade\\Program.cs",
+              "ToolTip": "C:\\C#\\Mensalidade\\Mensalidade\\Program.cs",
+              "RelativeToolTip": "Mensalidade\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T19:45:58.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

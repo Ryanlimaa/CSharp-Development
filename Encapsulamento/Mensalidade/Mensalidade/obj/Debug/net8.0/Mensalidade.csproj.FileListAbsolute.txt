@@ -1,0 +1,14 @@
+C:\C#\Mensalidade\Mensalidade\bin\Debug\net8.0\Mensalidade.exe
+C:\C#\Mensalidade\Mensalidade\bin\Debug\net8.0\Mensalidade.deps.json
+C:\C#\Mensalidade\Mensalidade\bin\Debug\net8.0\Mensalidade.runtimeconfig.json
+C:\C#\Mensalidade\Mensalidade\bin\Debug\net8.0\Mensalidade.dll
+C:\C#\Mensalidade\Mensalidade\bin\Debug\net8.0\Mensalidade.pdb
+C:\C#\Mensalidade\Mensalidade\obj\Debug\net8.0\Mensalidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Mensalidade\Mensalidade\obj\Debug\net8.0\Mensalidade.AssemblyInfoInputs.cache
+C:\C#\Mensalidade\Mensalidade\obj\Debug\net8.0\Mensalidade.AssemblyInfo.cs
+C:\C#\Mensalidade\Mensalidade\obj\Debug\net8.0\Mensalidade.csproj.CoreCompileInputs.cache
+C:\C#\Mensalidade\Mensalidade\obj\Debug\net8.0\Mensalidade.dll
+C:\C#\Mensalidade\Mensalidade\obj\Debug\net8.0\refint\Mensalidade.dll
+C:\C#\Mensalidade\Mensalidade\obj\Debug\net8.0\Mensalidade.pdb
+C:\C#\Mensalidade\Mensalidade\obj\Debug\net8.0\Mensalidade.genruntimeconfig.cache
+C:\C#\Mensalidade\Mensalidade\obj\Debug\net8.0\ref\Mensalidade.dll
