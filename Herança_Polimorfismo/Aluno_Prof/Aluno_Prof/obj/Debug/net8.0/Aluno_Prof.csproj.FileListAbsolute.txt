@@ -1,0 +1,14 @@
+C:\C#\Aluno_Prof\Aluno_Prof\bin\Debug\net8.0\Aluno_Prof.exe
+C:\C#\Aluno_Prof\Aluno_Prof\bin\Debug\net8.0\Aluno_Prof.deps.json
+C:\C#\Aluno_Prof\Aluno_Prof\bin\Debug\net8.0\Aluno_Prof.runtimeconfig.json
+C:\C#\Aluno_Prof\Aluno_Prof\bin\Debug\net8.0\Aluno_Prof.dll
+C:\C#\Aluno_Prof\Aluno_Prof\bin\Debug\net8.0\Aluno_Prof.pdb
+C:\C#\Aluno_Prof\Aluno_Prof\obj\Debug\net8.0\Aluno_Prof.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Aluno_Prof\Aluno_Prof\obj\Debug\net8.0\Aluno_Prof.AssemblyInfoInputs.cache
+C:\C#\Aluno_Prof\Aluno_Prof\obj\Debug\net8.0\Aluno_Prof.AssemblyInfo.cs
+C:\C#\Aluno_Prof\Aluno_Prof\obj\Debug\net8.0\Aluno_Prof.csproj.CoreCompileInputs.cache
+C:\C#\Aluno_Prof\Aluno_Prof\obj\Debug\net8.0\Aluno_Prof.dll
+C:\C#\Aluno_Prof\Aluno_Prof\obj\Debug\net8.0\refint\Aluno_Prof.dll
+C:\C#\Aluno_Prof\Aluno_Prof\obj\Debug\net8.0\Aluno_Prof.pdb
+C:\C#\Aluno_Prof\Aluno_Prof\obj\Debug\net8.0\Aluno_Prof.genruntimeconfig.cache
+C:\C#\Aluno_Prof\Aluno_Prof\obj\Debug\net8.0\ref\Aluno_Prof.dll

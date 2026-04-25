@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aluno_Prof/1.0.0": {
+        "runtime": {
+          "Aluno_Prof.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aluno_Prof/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
