@@ -1,0 +1,14 @@
+C:\C#\ex2_while\ex2_while\bin\Debug\net8.0\ex2_while.exe
+C:\C#\ex2_while\ex2_while\bin\Debug\net8.0\ex2_while.deps.json
+C:\C#\ex2_while\ex2_while\bin\Debug\net8.0\ex2_while.runtimeconfig.json
+C:\C#\ex2_while\ex2_while\bin\Debug\net8.0\ex2_while.dll
+C:\C#\ex2_while\ex2_while\bin\Debug\net8.0\ex2_while.pdb
+C:\C#\ex2_while\ex2_while\obj\Debug\net8.0\ex2_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\ex2_while\ex2_while\obj\Debug\net8.0\ex2_while.AssemblyInfoInputs.cache
+C:\C#\ex2_while\ex2_while\obj\Debug\net8.0\ex2_while.AssemblyInfo.cs
+C:\C#\ex2_while\ex2_while\obj\Debug\net8.0\ex2_while.csproj.CoreCompileInputs.cache
+C:\C#\ex2_while\ex2_while\obj\Debug\net8.0\ex2_while.dll
+C:\C#\ex2_while\ex2_while\obj\Debug\net8.0\refint\ex2_while.dll
+C:\C#\ex2_while\ex2_while\obj\Debug\net8.0\ex2_while.pdb
+C:\C#\ex2_while\ex2_while\obj\Debug\net8.0\ex2_while.genruntimeconfig.cache
+C:\C#\ex2_while\ex2_while\obj\Debug\net8.0\ref\ex2_while.dll
