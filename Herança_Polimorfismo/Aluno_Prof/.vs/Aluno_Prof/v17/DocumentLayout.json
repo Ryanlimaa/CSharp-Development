@@ -38,8 +38,7 @@
               "RelativeToolTip": "Aluno_Prof\\Entities\\Professor.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T13:18:03.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-25T13:18:03.651Z"
             },
             {
               "$type": "Document",
@@ -51,8 +50,7 @@
               "RelativeToolTip": "Aluno_Prof\\Entities\\Aluno.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAIwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T12:44:01.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-25T12:44:01.407Z"
             },
             {
               "$type": "Document",
@@ -64,8 +62,7 @@
               "RelativeToolTip": "Aluno_Prof\\Entities\\Pessoa.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAA1wA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T12:39:11.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-25T12:39:11.91Z"
             },
             {
               "$type": "Document",
@@ -75,7 +72,7 @@
               "RelativeDocumentMoniker": "Aluno_Prof\\Program.cs",
               "ToolTip": "C:\\C#\\Aluno_Prof\\Aluno_Prof\\Program.cs",
               "RelativeToolTip": "Aluno_Prof\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-25T12:37:11.763Z",
               "EditorCaption": ""

@@ -14,6 +14,12 @@ namespace Aluno_Prof
 
             Console.Write("Digite (a) para informações do aluno ou (p) para informações do professor: ");
             string escolha = Console.ReadLine();
+
+            while (escolha != "a" && escolha != "p")
+            {
+                Console.WriteLine("Opção inválida. Por favor, escolha 'a' para aluno ou 'p' para professor.");
+                escolha = Console.ReadLine();   
+            }
             if (escolha == "a")
             {
                 aluno.Nome = "Ryan Lima";
@@ -32,10 +38,6 @@ namespace Aluno_Prof
                 prof.Num_aulas = 5;
 
                 Console.WriteLine("\n" + prof.ExibirDados());
-            }
-            else
-            {
-                Console.WriteLine("Opção inválida. Por favor, escolha 'a' para aluno ou 'p' para professor.");
             }
         }
     }
