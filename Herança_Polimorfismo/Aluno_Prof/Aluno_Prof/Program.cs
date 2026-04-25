@@ -13,12 +13,12 @@ namespace Aluno_Prof
             Professor prof = new Professor();
 
             Console.Write("Digite (a) para informações do aluno ou (p) para informações do professor: ");
-            string escolha = Console.ReadLine();
+            string escolha = Console.ReadLine()?.ToLower();
 
             while (escolha != "a" && escolha != "p")
             {
                 Console.WriteLine("Opção inválida. Por favor, escolha 'a' para aluno ou 'p' para professor.");
-                escolha = Console.ReadLine();   
+                escolha = Console.ReadLine()?.ToLower();   
             }
             if (escolha == "a")
             {
