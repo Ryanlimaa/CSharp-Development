@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\ex2_while\\ex2_while\\ex2_while.csproj",
+      "projectUniqueName": "C:\\CSharp_Development\\Laços_de_repetição\\ex2_while\\ex2_while\\ex2_while.csproj",
       "projectName": "ex2_while",
-      "projectPath": "C:\\C#\\ex2_while\\ex2_while\\ex2_while.csproj",
+      "projectPath": "C:\\CSharp_Development\\Laços_de_repetição\\ex2_while\\ex2_while\\ex2_while.csproj",
       "packagesPath": "C:\\Users\\ADM\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\ex2_while\\ex2_while\\obj\\",
+      "outputPath": "C:\\CSharp_Development\\Laços_de_repetição\\ex2_while\\ex2_while\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
