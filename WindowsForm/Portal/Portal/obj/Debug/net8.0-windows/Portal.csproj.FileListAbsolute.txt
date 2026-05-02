@@ -1,0 +1,17 @@
+C:\C#\Portal\Portal\bin\Debug\net8.0-windows\Portal.exe
+C:\C#\Portal\Portal\bin\Debug\net8.0-windows\Portal.deps.json
+C:\C#\Portal\Portal\bin\Debug\net8.0-windows\Portal.runtimeconfig.json
+C:\C#\Portal\Portal\bin\Debug\net8.0-windows\Portal.dll
+C:\C#\Portal\Portal\bin\Debug\net8.0-windows\Portal.pdb
+C:\C#\Portal\Portal\obj\Debug\net8.0-windows\Portal.Form1.resources
+C:\C#\Portal\Portal\obj\Debug\net8.0-windows\Portal.Properties.Resources.resources
+C:\C#\Portal\Portal\obj\Debug\net8.0-windows\Portal.csproj.GenerateResource.cache
+C:\C#\Portal\Portal\obj\Debug\net8.0-windows\Portal.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Portal\Portal\obj\Debug\net8.0-windows\Portal.AssemblyInfoInputs.cache
+C:\C#\Portal\Portal\obj\Debug\net8.0-windows\Portal.AssemblyInfo.cs
+C:\C#\Portal\Portal\obj\Debug\net8.0-windows\Portal.csproj.CoreCompileInputs.cache
+C:\C#\Portal\Portal\obj\Debug\net8.0-windows\Portal.dll
+C:\C#\Portal\Portal\obj\Debug\net8.0-windows\refint\Portal.dll
+C:\C#\Portal\Portal\obj\Debug\net8.0-windows\Portal.pdb
+C:\C#\Portal\Portal\obj\Debug\net8.0-windows\Portal.genruntimeconfig.cache
+C:\C#\Portal\Portal\obj\Debug\net8.0-windows\ref\Portal.dll
