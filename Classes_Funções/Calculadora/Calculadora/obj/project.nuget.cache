@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G2xDtGfI8DI=",
+  "success": true,
+  "projectFilePath": "C:\\C#\\Calculadora\\Calculadora\\Calculadora.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADM\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
