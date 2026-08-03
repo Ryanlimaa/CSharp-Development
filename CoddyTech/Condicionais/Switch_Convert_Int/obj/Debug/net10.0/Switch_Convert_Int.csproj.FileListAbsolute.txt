@@ -1,0 +1,14 @@
+C:\C#\CoddyTech\Condicionais\Switch_Convert_Int\bin\Debug\net10.0\Switch_Convert_Int.exe
+C:\C#\CoddyTech\Condicionais\Switch_Convert_Int\bin\Debug\net10.0\Switch_Convert_Int.deps.json
+C:\C#\CoddyTech\Condicionais\Switch_Convert_Int\bin\Debug\net10.0\Switch_Convert_Int.runtimeconfig.json
+C:\C#\CoddyTech\Condicionais\Switch_Convert_Int\bin\Debug\net10.0\Switch_Convert_Int.dll
+C:\C#\CoddyTech\Condicionais\Switch_Convert_Int\bin\Debug\net10.0\Switch_Convert_Int.pdb
+C:\C#\CoddyTech\Condicionais\Switch_Convert_Int\obj\Debug\net10.0\Switch_Convert_Int.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\CoddyTech\Condicionais\Switch_Convert_Int\obj\Debug\net10.0\Switch_Convert_Int.AssemblyInfoInputs.cache
+C:\C#\CoddyTech\Condicionais\Switch_Convert_Int\obj\Debug\net10.0\Switch_Convert_Int.AssemblyInfo.cs
+C:\C#\CoddyTech\Condicionais\Switch_Convert_Int\obj\Debug\net10.0\Switch_Convert_Int.csproj.CoreCompileInputs.cache
+C:\C#\CoddyTech\Condicionais\Switch_Convert_Int\obj\Debug\net10.0\Switch_Convert_Int.dll
+C:\C#\CoddyTech\Condicionais\Switch_Convert_Int\obj\Debug\net10.0\refint\Switch_Convert_Int.dll
+C:\C#\CoddyTech\Condicionais\Switch_Convert_Int\obj\Debug\net10.0\Switch_Convert_Int.pdb
+C:\C#\CoddyTech\Condicionais\Switch_Convert_Int\obj\Debug\net10.0\Switch_Convert_Int.genruntimeconfig.cache
+C:\C#\CoddyTech\Condicionais\Switch_Convert_Int\obj\Debug\net10.0\ref\Switch_Convert_Int.dll

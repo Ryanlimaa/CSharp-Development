@@ -1,0 +1,14 @@
+C:\C#\CoddyTech\Condicionais\If_Switch_DescribeShape\bin\Debug\net10.0\If_Switch_DescribeShape.exe
+C:\C#\CoddyTech\Condicionais\If_Switch_DescribeShape\bin\Debug\net10.0\If_Switch_DescribeShape.deps.json
+C:\C#\CoddyTech\Condicionais\If_Switch_DescribeShape\bin\Debug\net10.0\If_Switch_DescribeShape.runtimeconfig.json
+C:\C#\CoddyTech\Condicionais\If_Switch_DescribeShape\bin\Debug\net10.0\If_Switch_DescribeShape.dll
+C:\C#\CoddyTech\Condicionais\If_Switch_DescribeShape\bin\Debug\net10.0\If_Switch_DescribeShape.pdb
+C:\C#\CoddyTech\Condicionais\If_Switch_DescribeShape\obj\Debug\net10.0\If_Switch_DescribeShape.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\CoddyTech\Condicionais\If_Switch_DescribeShape\obj\Debug\net10.0\If_Switch_DescribeShape.AssemblyInfoInputs.cache
+C:\C#\CoddyTech\Condicionais\If_Switch_DescribeShape\obj\Debug\net10.0\If_Switch_DescribeShape.AssemblyInfo.cs
+C:\C#\CoddyTech\Condicionais\If_Switch_DescribeShape\obj\Debug\net10.0\If_Switch_DescribeShape.csproj.CoreCompileInputs.cache
+C:\C#\CoddyTech\Condicionais\If_Switch_DescribeShape\obj\Debug\net10.0\If_Switch_DescribeShape.dll
+C:\C#\CoddyTech\Condicionais\If_Switch_DescribeShape\obj\Debug\net10.0\refint\If_Switch_DescribeShape.dll
+C:\C#\CoddyTech\Condicionais\If_Switch_DescribeShape\obj\Debug\net10.0\If_Switch_DescribeShape.pdb
+C:\C#\CoddyTech\Condicionais\If_Switch_DescribeShape\obj\Debug\net10.0\If_Switch_DescribeShape.genruntimeconfig.cache
+C:\C#\CoddyTech\Condicionais\If_Switch_DescribeShape\obj\Debug\net10.0\ref\If_Switch_DescribeShape.dll

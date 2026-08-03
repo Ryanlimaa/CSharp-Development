@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "If_Switch_DescribeShape/1.0.0": {
+        "runtime": {
+          "If_Switch_DescribeShape.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "If_Switch_DescribeShape/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
