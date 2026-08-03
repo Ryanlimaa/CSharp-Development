@@ -1,0 +1,14 @@
+C:\C#\CoddyTech\Array2D\Ex5_sumAdjacente\bin\Debug\net10.0\Ex5_sumAdjacente.exe
+C:\C#\CoddyTech\Array2D\Ex5_sumAdjacente\bin\Debug\net10.0\Ex5_sumAdjacente.deps.json
+C:\C#\CoddyTech\Array2D\Ex5_sumAdjacente\bin\Debug\net10.0\Ex5_sumAdjacente.runtimeconfig.json
+C:\C#\CoddyTech\Array2D\Ex5_sumAdjacente\bin\Debug\net10.0\Ex5_sumAdjacente.dll
+C:\C#\CoddyTech\Array2D\Ex5_sumAdjacente\bin\Debug\net10.0\Ex5_sumAdjacente.pdb
+C:\C#\CoddyTech\Array2D\Ex5_sumAdjacente\obj\Debug\net10.0\Ex5_sumAdjacente.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\CoddyTech\Array2D\Ex5_sumAdjacente\obj\Debug\net10.0\Ex5_sumAdjacente.AssemblyInfoInputs.cache
+C:\C#\CoddyTech\Array2D\Ex5_sumAdjacente\obj\Debug\net10.0\Ex5_sumAdjacente.AssemblyInfo.cs
+C:\C#\CoddyTech\Array2D\Ex5_sumAdjacente\obj\Debug\net10.0\Ex5_sumAdjacente.csproj.CoreCompileInputs.cache
+C:\C#\CoddyTech\Array2D\Ex5_sumAdjacente\obj\Debug\net10.0\Ex5_sumAdjacente.dll
+C:\C#\CoddyTech\Array2D\Ex5_sumAdjacente\obj\Debug\net10.0\refint\Ex5_sumAdjacente.dll
+C:\C#\CoddyTech\Array2D\Ex5_sumAdjacente\obj\Debug\net10.0\Ex5_sumAdjacente.pdb
+C:\C#\CoddyTech\Array2D\Ex5_sumAdjacente\obj\Debug\net10.0\Ex5_sumAdjacente.genruntimeconfig.cache
+C:\C#\CoddyTech\Array2D\Ex5_sumAdjacente\obj\Debug\net10.0\ref\Ex5_sumAdjacente.dll

@@ -1,0 +1,14 @@
+C:\C#\CoddyTech\Array2D\Ex4_sumMatriz\bin\Debug\net10.0\Ex4_sumMatriz.exe
+C:\C#\CoddyTech\Array2D\Ex4_sumMatriz\bin\Debug\net10.0\Ex4_sumMatriz.deps.json
+C:\C#\CoddyTech\Array2D\Ex4_sumMatriz\bin\Debug\net10.0\Ex4_sumMatriz.runtimeconfig.json
+C:\C#\CoddyTech\Array2D\Ex4_sumMatriz\bin\Debug\net10.0\Ex4_sumMatriz.dll
+C:\C#\CoddyTech\Array2D\Ex4_sumMatriz\bin\Debug\net10.0\Ex4_sumMatriz.pdb
+C:\C#\CoddyTech\Array2D\Ex4_sumMatriz\obj\Debug\net10.0\Ex4_sumMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\CoddyTech\Array2D\Ex4_sumMatriz\obj\Debug\net10.0\Ex4_sumMatriz.AssemblyInfoInputs.cache
+C:\C#\CoddyTech\Array2D\Ex4_sumMatriz\obj\Debug\net10.0\Ex4_sumMatriz.AssemblyInfo.cs
+C:\C#\CoddyTech\Array2D\Ex4_sumMatriz\obj\Debug\net10.0\Ex4_sumMatriz.csproj.CoreCompileInputs.cache
+C:\C#\CoddyTech\Array2D\Ex4_sumMatriz\obj\Debug\net10.0\Ex4_sumMatriz.dll
+C:\C#\CoddyTech\Array2D\Ex4_sumMatriz\obj\Debug\net10.0\refint\Ex4_sumMatriz.dll
+C:\C#\CoddyTech\Array2D\Ex4_sumMatriz\obj\Debug\net10.0\Ex4_sumMatriz.pdb
+C:\C#\CoddyTech\Array2D\Ex4_sumMatriz\obj\Debug\net10.0\Ex4_sumMatriz.genruntimeconfig.cache
+C:\C#\CoddyTech\Array2D\Ex4_sumMatriz\obj\Debug\net10.0\ref\Ex4_sumMatriz.dll
