@@ -1,0 +1,14 @@
+C:\C#\Beecrowd\teste\Area\obj\Debug\net10.0\Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Beecrowd\teste\Area\obj\Debug\net10.0\Area.AssemblyInfoInputs.cache
+C:\C#\Beecrowd\teste\Area\obj\Debug\net10.0\Area.AssemblyInfo.cs
+C:\C#\Beecrowd\teste\Area\obj\Debug\net10.0\Area.csproj.CoreCompileInputs.cache
+C:\C#\Beecrowd\teste\Area\bin\Debug\net10.0\Area.exe
+C:\C#\Beecrowd\teste\Area\bin\Debug\net10.0\Area.deps.json
+C:\C#\Beecrowd\teste\Area\bin\Debug\net10.0\Area.runtimeconfig.json
+C:\C#\Beecrowd\teste\Area\bin\Debug\net10.0\Area.dll
+C:\C#\Beecrowd\teste\Area\bin\Debug\net10.0\Area.pdb
+C:\C#\Beecrowd\teste\Area\obj\Debug\net10.0\Area.dll
+C:\C#\Beecrowd\teste\Area\obj\Debug\net10.0\refint\Area.dll
+C:\C#\Beecrowd\teste\Area\obj\Debug\net10.0\Area.pdb
+C:\C#\Beecrowd\teste\Area\obj\Debug\net10.0\Area.genruntimeconfig.cache
+C:\C#\Beecrowd\teste\Area\obj\Debug\net10.0\ref\Area.dll

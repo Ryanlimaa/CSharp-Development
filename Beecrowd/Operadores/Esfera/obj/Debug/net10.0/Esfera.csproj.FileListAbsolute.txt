@@ -1,0 +1,14 @@
+C:\C#\Beecrowd\teste\Esfera\bin\Debug\net10.0\Esfera.exe
+C:\C#\Beecrowd\teste\Esfera\bin\Debug\net10.0\Esfera.deps.json
+C:\C#\Beecrowd\teste\Esfera\bin\Debug\net10.0\Esfera.runtimeconfig.json
+C:\C#\Beecrowd\teste\Esfera\bin\Debug\net10.0\Esfera.dll
+C:\C#\Beecrowd\teste\Esfera\bin\Debug\net10.0\Esfera.pdb
+C:\C#\Beecrowd\teste\Esfera\obj\Debug\net10.0\Esfera.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Beecrowd\teste\Esfera\obj\Debug\net10.0\Esfera.AssemblyInfoInputs.cache
+C:\C#\Beecrowd\teste\Esfera\obj\Debug\net10.0\Esfera.AssemblyInfo.cs
+C:\C#\Beecrowd\teste\Esfera\obj\Debug\net10.0\Esfera.csproj.CoreCompileInputs.cache
+C:\C#\Beecrowd\teste\Esfera\obj\Debug\net10.0\Esfera.dll
+C:\C#\Beecrowd\teste\Esfera\obj\Debug\net10.0\refint\Esfera.dll
+C:\C#\Beecrowd\teste\Esfera\obj\Debug\net10.0\Esfera.pdb
+C:\C#\Beecrowd\teste\Esfera\obj\Debug\net10.0\Esfera.genruntimeconfig.cache
+C:\C#\Beecrowd\teste\Esfera\obj\Debug\net10.0\ref\Esfera.dll
