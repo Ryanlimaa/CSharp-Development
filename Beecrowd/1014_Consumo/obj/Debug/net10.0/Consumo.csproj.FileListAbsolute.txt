@@ -1,0 +1,14 @@
+C:\C#\Beecrowd\teste\Consumo\bin\Debug\net10.0\Consumo.exe
+C:\C#\Beecrowd\teste\Consumo\bin\Debug\net10.0\Consumo.deps.json
+C:\C#\Beecrowd\teste\Consumo\bin\Debug\net10.0\Consumo.runtimeconfig.json
+C:\C#\Beecrowd\teste\Consumo\bin\Debug\net10.0\Consumo.dll
+C:\C#\Beecrowd\teste\Consumo\bin\Debug\net10.0\Consumo.pdb
+C:\C#\Beecrowd\teste\Consumo\obj\Debug\net10.0\Consumo.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Beecrowd\teste\Consumo\obj\Debug\net10.0\Consumo.AssemblyInfoInputs.cache
+C:\C#\Beecrowd\teste\Consumo\obj\Debug\net10.0\Consumo.AssemblyInfo.cs
+C:\C#\Beecrowd\teste\Consumo\obj\Debug\net10.0\Consumo.csproj.CoreCompileInputs.cache
+C:\C#\Beecrowd\teste\Consumo\obj\Debug\net10.0\Consumo.dll
+C:\C#\Beecrowd\teste\Consumo\obj\Debug\net10.0\refint\Consumo.dll
+C:\C#\Beecrowd\teste\Consumo\obj\Debug\net10.0\Consumo.pdb
+C:\C#\Beecrowd\teste\Consumo\obj\Debug\net10.0\Consumo.genruntimeconfig.cache
+C:\C#\Beecrowd\teste\Consumo\obj\Debug\net10.0\ref\Consumo.dll

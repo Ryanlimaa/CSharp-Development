@@ -1,0 +1,14 @@
+C:\C#\Beecrowd\teste\O_Maior\bin\Debug\net10.0\O_Maior.exe
+C:\C#\Beecrowd\teste\O_Maior\bin\Debug\net10.0\O_Maior.deps.json
+C:\C#\Beecrowd\teste\O_Maior\bin\Debug\net10.0\O_Maior.runtimeconfig.json
+C:\C#\Beecrowd\teste\O_Maior\bin\Debug\net10.0\O_Maior.dll
+C:\C#\Beecrowd\teste\O_Maior\bin\Debug\net10.0\O_Maior.pdb
+C:\C#\Beecrowd\teste\O_Maior\obj\Debug\net10.0\O_Maior.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Beecrowd\teste\O_Maior\obj\Debug\net10.0\O_Maior.AssemblyInfoInputs.cache
+C:\C#\Beecrowd\teste\O_Maior\obj\Debug\net10.0\O_Maior.AssemblyInfo.cs
+C:\C#\Beecrowd\teste\O_Maior\obj\Debug\net10.0\O_Maior.csproj.CoreCompileInputs.cache
+C:\C#\Beecrowd\teste\O_Maior\obj\Debug\net10.0\O_Maior.dll
+C:\C#\Beecrowd\teste\O_Maior\obj\Debug\net10.0\refint\O_Maior.dll
+C:\C#\Beecrowd\teste\O_Maior\obj\Debug\net10.0\O_Maior.pdb
+C:\C#\Beecrowd\teste\O_Maior\obj\Debug\net10.0\O_Maior.genruntimeconfig.cache
+C:\C#\Beecrowd\teste\O_Maior\obj\Debug\net10.0\ref\O_Maior.dll
