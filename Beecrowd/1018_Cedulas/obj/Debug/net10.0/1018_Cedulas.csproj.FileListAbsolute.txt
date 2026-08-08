@@ -1,0 +1,14 @@
+C:\C#\Beecrowd\teste\1018_Cedulas\bin\Debug\net10.0\1018_Cedulas.exe
+C:\C#\Beecrowd\teste\1018_Cedulas\bin\Debug\net10.0\1018_Cedulas.deps.json
+C:\C#\Beecrowd\teste\1018_Cedulas\bin\Debug\net10.0\1018_Cedulas.runtimeconfig.json
+C:\C#\Beecrowd\teste\1018_Cedulas\bin\Debug\net10.0\1018_Cedulas.dll
+C:\C#\Beecrowd\teste\1018_Cedulas\bin\Debug\net10.0\1018_Cedulas.pdb
+C:\C#\Beecrowd\teste\1018_Cedulas\obj\Debug\net10.0\1018_Cedulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Beecrowd\teste\1018_Cedulas\obj\Debug\net10.0\1018_Cedulas.AssemblyInfoInputs.cache
+C:\C#\Beecrowd\teste\1018_Cedulas\obj\Debug\net10.0\1018_Cedulas.AssemblyInfo.cs
+C:\C#\Beecrowd\teste\1018_Cedulas\obj\Debug\net10.0\1018_Cedulas.csproj.CoreCompileInputs.cache
+C:\C#\Beecrowd\teste\1018_Cedulas\obj\Debug\net10.0\1018_Cedulas.dll
+C:\C#\Beecrowd\teste\1018_Cedulas\obj\Debug\net10.0\refint\1018_Cedulas.dll
+C:\C#\Beecrowd\teste\1018_Cedulas\obj\Debug\net10.0\1018_Cedulas.pdb
+C:\C#\Beecrowd\teste\1018_Cedulas\obj\Debug\net10.0\1018_Cedulas.genruntimeconfig.cache
+C:\C#\Beecrowd\teste\1018_Cedulas\obj\Debug\net10.0\ref\1018_Cedulas.dll

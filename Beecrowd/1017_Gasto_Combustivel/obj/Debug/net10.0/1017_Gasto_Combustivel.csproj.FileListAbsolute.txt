@@ -1,0 +1,14 @@
+C:\C#\Beecrowd\teste\1017_Gasto_Combustivel\bin\Debug\net10.0\1017_Gasto_Combustivel.exe
+C:\C#\Beecrowd\teste\1017_Gasto_Combustivel\bin\Debug\net10.0\1017_Gasto_Combustivel.deps.json
+C:\C#\Beecrowd\teste\1017_Gasto_Combustivel\bin\Debug\net10.0\1017_Gasto_Combustivel.runtimeconfig.json
+C:\C#\Beecrowd\teste\1017_Gasto_Combustivel\bin\Debug\net10.0\1017_Gasto_Combustivel.dll
+C:\C#\Beecrowd\teste\1017_Gasto_Combustivel\bin\Debug\net10.0\1017_Gasto_Combustivel.pdb
+C:\C#\Beecrowd\teste\1017_Gasto_Combustivel\obj\Debug\net10.0\1017_Gasto_Combustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Beecrowd\teste\1017_Gasto_Combustivel\obj\Debug\net10.0\1017_Gasto_Combustivel.AssemblyInfoInputs.cache
+C:\C#\Beecrowd\teste\1017_Gasto_Combustivel\obj\Debug\net10.0\1017_Gasto_Combustivel.AssemblyInfo.cs
+C:\C#\Beecrowd\teste\1017_Gasto_Combustivel\obj\Debug\net10.0\1017_Gasto_Combustivel.csproj.CoreCompileInputs.cache
+C:\C#\Beecrowd\teste\1017_Gasto_Combustivel\obj\Debug\net10.0\1017_Gasto_Combustivel.dll
+C:\C#\Beecrowd\teste\1017_Gasto_Combustivel\obj\Debug\net10.0\refint\1017_Gasto_Combustivel.dll
+C:\C#\Beecrowd\teste\1017_Gasto_Combustivel\obj\Debug\net10.0\1017_Gasto_Combustivel.pdb
+C:\C#\Beecrowd\teste\1017_Gasto_Combustivel\obj\Debug\net10.0\1017_Gasto_Combustivel.genruntimeconfig.cache
+C:\C#\Beecrowd\teste\1017_Gasto_Combustivel\obj\Debug\net10.0\ref\1017_Gasto_Combustivel.dll

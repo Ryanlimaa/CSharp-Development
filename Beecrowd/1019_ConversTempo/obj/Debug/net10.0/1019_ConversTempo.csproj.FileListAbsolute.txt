@@ -1,0 +1,14 @@
+C:\C#\Beecrowd\teste\1019_ConversTempo\bin\Debug\net10.0\1019_ConversTempo.exe
+C:\C#\Beecrowd\teste\1019_ConversTempo\bin\Debug\net10.0\1019_ConversTempo.deps.json
+C:\C#\Beecrowd\teste\1019_ConversTempo\bin\Debug\net10.0\1019_ConversTempo.runtimeconfig.json
+C:\C#\Beecrowd\teste\1019_ConversTempo\bin\Debug\net10.0\1019_ConversTempo.dll
+C:\C#\Beecrowd\teste\1019_ConversTempo\bin\Debug\net10.0\1019_ConversTempo.pdb
+C:\C#\Beecrowd\teste\1019_ConversTempo\obj\Debug\net10.0\1019_ConversTempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Beecrowd\teste\1019_ConversTempo\obj\Debug\net10.0\1019_ConversTempo.AssemblyInfoInputs.cache
+C:\C#\Beecrowd\teste\1019_ConversTempo\obj\Debug\net10.0\1019_ConversTempo.AssemblyInfo.cs
+C:\C#\Beecrowd\teste\1019_ConversTempo\obj\Debug\net10.0\1019_ConversTempo.csproj.CoreCompileInputs.cache
+C:\C#\Beecrowd\teste\1019_ConversTempo\obj\Debug\net10.0\1019_ConversTempo.dll
+C:\C#\Beecrowd\teste\1019_ConversTempo\obj\Debug\net10.0\refint\1019_ConversTempo.dll
+C:\C#\Beecrowd\teste\1019_ConversTempo\obj\Debug\net10.0\1019_ConversTempo.pdb
+C:\C#\Beecrowd\teste\1019_ConversTempo\obj\Debug\net10.0\1019_ConversTempo.genruntimeconfig.cache
+C:\C#\Beecrowd\teste\1019_ConversTempo\obj\Debug\net10.0\ref\1019_ConversTempo.dll

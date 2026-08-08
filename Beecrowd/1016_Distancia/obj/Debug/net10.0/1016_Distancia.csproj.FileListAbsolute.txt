@@ -1,0 +1,14 @@
+C:\C#\Beecrowd\teste\1016_Distancia\bin\Debug\net10.0\1016_Distancia.exe
+C:\C#\Beecrowd\teste\1016_Distancia\bin\Debug\net10.0\1016_Distancia.deps.json
+C:\C#\Beecrowd\teste\1016_Distancia\bin\Debug\net10.0\1016_Distancia.runtimeconfig.json
+C:\C#\Beecrowd\teste\1016_Distancia\bin\Debug\net10.0\1016_Distancia.dll
+C:\C#\Beecrowd\teste\1016_Distancia\bin\Debug\net10.0\1016_Distancia.pdb
+C:\C#\Beecrowd\teste\1016_Distancia\obj\Debug\net10.0\1016_Distancia.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Beecrowd\teste\1016_Distancia\obj\Debug\net10.0\1016_Distancia.AssemblyInfoInputs.cache
+C:\C#\Beecrowd\teste\1016_Distancia\obj\Debug\net10.0\1016_Distancia.AssemblyInfo.cs
+C:\C#\Beecrowd\teste\1016_Distancia\obj\Debug\net10.0\1016_Distancia.csproj.CoreCompileInputs.cache
+C:\C#\Beecrowd\teste\1016_Distancia\obj\Debug\net10.0\1016_Distancia.dll
+C:\C#\Beecrowd\teste\1016_Distancia\obj\Debug\net10.0\refint\1016_Distancia.dll
+C:\C#\Beecrowd\teste\1016_Distancia\obj\Debug\net10.0\1016_Distancia.pdb
+C:\C#\Beecrowd\teste\1016_Distancia\obj\Debug\net10.0\1016_Distancia.genruntimeconfig.cache
+C:\C#\Beecrowd\teste\1016_Distancia\obj\Debug\net10.0\ref\1016_Distancia.dll
