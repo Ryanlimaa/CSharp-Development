@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "1020_ConversIdade/1.0.0": {
+        "runtime": {
+          "1020_ConversIdade.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1020_ConversIdade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

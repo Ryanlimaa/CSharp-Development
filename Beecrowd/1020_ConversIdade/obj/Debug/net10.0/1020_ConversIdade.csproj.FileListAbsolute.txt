@@ -1,0 +1,14 @@
+C:\C#\Beecrowd\teste\1020_ConversIdade\bin\Debug\net10.0\1020_ConversIdade.exe
+C:\C#\Beecrowd\teste\1020_ConversIdade\bin\Debug\net10.0\1020_ConversIdade.deps.json
+C:\C#\Beecrowd\teste\1020_ConversIdade\bin\Debug\net10.0\1020_ConversIdade.runtimeconfig.json
+C:\C#\Beecrowd\teste\1020_ConversIdade\bin\Debug\net10.0\1020_ConversIdade.dll
+C:\C#\Beecrowd\teste\1020_ConversIdade\bin\Debug\net10.0\1020_ConversIdade.pdb
+C:\C#\Beecrowd\teste\1020_ConversIdade\obj\Debug\net10.0\1020_ConversIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Beecrowd\teste\1020_ConversIdade\obj\Debug\net10.0\1020_ConversIdade.AssemblyInfoInputs.cache
+C:\C#\Beecrowd\teste\1020_ConversIdade\obj\Debug\net10.0\1020_ConversIdade.AssemblyInfo.cs
+C:\C#\Beecrowd\teste\1020_ConversIdade\obj\Debug\net10.0\1020_ConversIdade.csproj.CoreCompileInputs.cache
+C:\C#\Beecrowd\teste\1020_ConversIdade\obj\Debug\net10.0\1020_ConversIdade.dll
+C:\C#\Beecrowd\teste\1020_ConversIdade\obj\Debug\net10.0\refint\1020_ConversIdade.dll
+C:\C#\Beecrowd\teste\1020_ConversIdade\obj\Debug\net10.0\1020_ConversIdade.pdb
+C:\C#\Beecrowd\teste\1020_ConversIdade\obj\Debug\net10.0\1020_ConversIdade.genruntimeconfig.cache
+C:\C#\Beecrowd\teste\1020_ConversIdade\obj\Debug\net10.0\ref\1020_ConversIdade.dll

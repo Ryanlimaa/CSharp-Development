@@ -1,0 +1,14 @@
+C:\C#\Beecrowd\teste\1021_Moedas\bin\Debug\net10.0\1021_Moedas.exe
+C:\C#\Beecrowd\teste\1021_Moedas\bin\Debug\net10.0\1021_Moedas.deps.json
+C:\C#\Beecrowd\teste\1021_Moedas\bin\Debug\net10.0\1021_Moedas.runtimeconfig.json
+C:\C#\Beecrowd\teste\1021_Moedas\bin\Debug\net10.0\1021_Moedas.dll
+C:\C#\Beecrowd\teste\1021_Moedas\bin\Debug\net10.0\1021_Moedas.pdb
+C:\C#\Beecrowd\teste\1021_Moedas\obj\Debug\net10.0\1021_Moedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Beecrowd\teste\1021_Moedas\obj\Debug\net10.0\1021_Moedas.AssemblyInfoInputs.cache
+C:\C#\Beecrowd\teste\1021_Moedas\obj\Debug\net10.0\1021_Moedas.AssemblyInfo.cs
+C:\C#\Beecrowd\teste\1021_Moedas\obj\Debug\net10.0\1021_Moedas.csproj.CoreCompileInputs.cache
+C:\C#\Beecrowd\teste\1021_Moedas\obj\Debug\net10.0\1021_Moedas.dll
+C:\C#\Beecrowd\teste\1021_Moedas\obj\Debug\net10.0\refint\1021_Moedas.dll
+C:\C#\Beecrowd\teste\1021_Moedas\obj\Debug\net10.0\1021_Moedas.pdb
+C:\C#\Beecrowd\teste\1021_Moedas\obj\Debug\net10.0\1021_Moedas.genruntimeconfig.cache
+C:\C#\Beecrowd\teste\1021_Moedas\obj\Debug\net10.0\ref\1021_Moedas.dll
